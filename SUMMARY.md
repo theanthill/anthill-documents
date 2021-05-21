@@ -1,0 +1,29 @@
+# Table of contents
+
+* [The Anthill Protocol](README.md)
+
+## Protocol
+
+* [Tokens](protocol/tokens.md)
+* [Platform](protocol/platform.md)
+* [Roadmap](protocol/roadmap.md)
+
+## Mechanisms
+
+* [Background](mechanisms/background/README.md)
+  * [Metamask](mechanisms/background/metamask.md)
+* [Stabilisation Mechanism](mechanisms/stabilisation-mechanism.md)
+* [Initial Launch](mechanisms/initial-launch.md)
+
+## HOW-TO
+
+* [Metamask: Add Binance Smart Chain \(BSC\) Network](how-to/metamask-add-binance-smart-chain-bsc-network.md)
+* [Metmask: Token Addresses](how-to/metmask-token-addresses.md)
+* [Getting BNB on Binance Smart Chain \(BSC\) Testnet](how-to/getting-bnb-on-binance-smart-chain-bsc-testnet.md)
+
+## Misc
+
+---
+
+* [Socials](socials.md)
+
