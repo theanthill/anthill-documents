@@ -23,7 +23,5 @@
 
 ## Misc
 
----
-
-* [Socials](socials.md)
+* [Socials](misc/socials.md)
 

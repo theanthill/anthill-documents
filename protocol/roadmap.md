@@ -4,7 +4,7 @@ Roadmap for 2021 focuses on growing the ANT and The Anthill Protocol ecosystem, 
 
 **Completed**
 
-✅  TODO
+✅ TODO
 
 **In progress**
 

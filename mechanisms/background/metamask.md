@@ -15,10 +15,10 @@ At the bottom click on Add Network and fill in the following data:
 ![](https://testnet.anthillhq.com/static/media/MetamaskRPCSettings.d28fc508.png)
 
 * **Network Name:**Binance Test
-* **New RPC URL:**https://data-seed-prebsc-1-s1.binance.org:8545/
+* **New RPC URL:**[https://data-seed-prebsc-1-s1.binance.org:8545/](https://data-seed-prebsc-1-s1.binance.org:8545/)
 * **Chain ID:**97
 * **Currency Symbol:**BNB
-* **Block Explorer URL:**https://testnet.bscscan.com
+* **Block Explorer URL:**[https://testnet.bscscan.com](https://testnet.bscscan.com)
 
 Finally select the **Binance Test** in Metamask's network selector \(drop down at the top of Metamask\):
 

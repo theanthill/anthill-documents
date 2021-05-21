@@ -20,7 +20,7 @@ This three token system creates incentives through seigniorage, always pushing A
 
 Capped at +50% of current expansion cap if there are bonds to be redeemed and follows the expansion cap if treasury is sufficiently full to meet bond redemption \(See table below for detailed information\)
 
-Total ANT Supply Expansion / Bonds Issued per Epoch 
+Total ANT Supply Expansion / Bonds Issued per Epoch
 
 * Under 500k      4.00% Cap 
 * 500k+                3.50% Cap 
