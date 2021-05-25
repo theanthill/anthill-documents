@@ -42,14 +42,6 @@ Total ANT Supply Expansion / Bonds Issued per Epoch
 * Epoch Expansion: Capped at 6% if there are bonds to be redeemed, 4% if treasury is sufficiently full to meet bond redemption
 * ANTB tokens do not expire and this greatly reduces the risk for bond buyers
 * Price feed oracle for TWAP is based on the average of 2 liquidity pool pairs \(i.e. ANT/BUSD and ANT/BNB\) which makes it more difficult to manipulate
-* The protocol keeps 75% of the expanded ANT supply for ANTS boardroom stakers for each epoch expansion, 25% toward Midas DAO Fund. During debt phase, 50% of minted ANT will be sent to the treasury for ANTS holders to participate in bond redemption.
 * No discount for bond purchase, but premium bonus for bond redemptions if users were to wait for ANT to increase even more than the 1 $BUSD peg
 * Riding on [theanthill.io](http://www.theanthill.io) various resources and ecosystem pillars, ANT will find its ever growing utilities right after launch, which is its great advantage over other algorithmic stablecoins.
-
-## Midas DAO fund <a id="decentralised-dao-fund"></a>
-
-This is a fund established to support MDO ecosystem:
-
-* Rewards to all contributors & participants
-* Marketing, events and partnerships to grow MDO.
 

@@ -10,8 +10,7 @@
 
 ## Mechanisms
 
-* [Background](mechanisms/background/README.md)
-  * [Metamask](mechanisms/background/metamask.md)
+* [Background](mechanisms/background.md)
 * [Stabilisation Mechanism](mechanisms/stabilisation-mechanism.md)
 * [Initial Launch](mechanisms/initial-launch.md)
 
