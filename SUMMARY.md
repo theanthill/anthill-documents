@@ -1,6 +1,7 @@
 # Table of contents
 
-* [The Anthill Protocol](README.md)
+* [The Anthill Project](README.md)
+* [The Anthill Protocol](the-anthill-protocol.md)
 
 ## Protocol
 
