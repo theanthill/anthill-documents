@@ -1,6 +1,8 @@
 # Background
 
-**The ANT Token** is an innovative solution that can adjust its supply deterministically to move the price of the token in the direction of a target price to bring programmability and interoperability to DeFi. One of the biggest issues of all current algorithmic stablecoins right now is utility. We are glad that ANT has use-cases right away.
+The ANT token is a utility token designed to be used as governance for the Decentralized Autonomous Organization \(DAO\) The Anthill, as a medium of exchange between, to pay rewards and for purchasing products and services.
+
+In addition, ANT holders have voting rights and the ability to create proposals to improve the protocol.****
 
 ## Algorithmic Central Banks <a id="algorithmic-central-banks"></a>
 
