@@ -1,6 +1,6 @@
 # Getting BNB on Binance Smart Chain \(BSC\) Testnet
 
-To confirm any transaction on Binance Testnet you need to own BNBs. BNB is the native coin for the Binance ecosystem. To get some fake coins for the testnet, Binance has provided a faucet the will send you some BNBs. To do so, first go to [https://testnet.binance.org/faucet-smart](https://testnet.anthillhq.com/https://testnet.binance.org/faucet-smart):
+To confirm any transaction on Binance Testnet you need to own BNBs. BNB is the native coin for the Binance ecosystem. To get some fake coins for the testnet, Binance has provided a faucet the will send you some BNBs. To do so, first go to [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart):
 
 ![](https://testnet.anthillhq.com/static/media/BinanceFaucet.79a1b668.png)
 
