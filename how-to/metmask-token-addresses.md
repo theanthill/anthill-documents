@@ -1,4 +1,4 @@
-# Metmask: Token Addresses
+# Metamask: Token Addresses
 
 At the bottom of Metmask select **Add Token**:
 
