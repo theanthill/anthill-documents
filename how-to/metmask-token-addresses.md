@@ -10,10 +10,11 @@ Fill in the **Token Contract Address** and the rest of the fields should fill in
 
 The token addresses for this deployment are:
 
-* **ANT Token:**0xDf1947bB956EF2713A3A7D3D1e4560Dc593A4Ac1
-* **ANT Share:**0xd62Df81361922324a69527E5858F56856E42e914
-* **ANT Bond:**0x8132ce880Ad1A861214fA57a37D9432406140dC7
-* **BUSD Token:**0xB926105A3736822C5B030C3A6db504a5833dBf80
+* **ANT Token:**0xB8c0841CB28A6feB35AaBaCbffF337cadeF066A1
+* **ANT Share:**0x0c36c482522146Bc77C5d2add57d62015C181BEe
+* **ANT Bond:**0xc26d6640F2fe4aD966f264da86F382b48aF49A73
+* **BUSD Token:**0x4dd8846Cc98c584aCf1Fc9682A03cFa9ED2E2F3F
+* **BNB Token:**0xA46375071e93e5E427D47DD771420d5b048C6aBa
 
 Select **Next** and finally select **Add Tokens**:
 
