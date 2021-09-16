@@ -2,11 +2,11 @@
 
 To confirm any transaction on Binance Testnet you need to own BNBs. BNB is the native coin for the Binance ecosystem. To get some fake coins for the testnet, Binance has provided a faucet the will send you some BNBs. To do so, first go to [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart):
 
-![](https://testnet.anthillhq.com/static/media/BinanceFaucet.79a1b668.png)
+![](../.gitbook/assets/binancefaucet.png)
 
 Copy your wallet address from metamask by clicking on the name of your account, at the top of Metamask:
 
-![](https://testnet.anthillhq.com/static/media/MetamaskWalletAddress.b89ff2b3.png)
+![](../.gitbook/assets/metamaskwalletaddress.png)
 
 Paste the address into the faucet text field:
 
@@ -18,5 +18,5 @@ And finally click on the **Get BNB** dropdown menu and select **1 BNB**:
 
 After a bit you should see confirmation that the BNBs have arrived and you should see them in your wallet:
 
-![](https://testnet.anthillhq.com/static/media/FaucetApprovedBNB.0961b18d.png)
+![](../.gitbook/assets/faucetapprovedbnb.png)
 
