@@ -1,30 +1,18 @@
 ---
-description: The first decentralized global marketplace for the creative minds
+description: The first Decentralized Global Community for the Creatives
 ---
 
 # The Anthill Project
 
-**The Anthill** is the first decentralized global marketplace for the creative minds on a mission to create a transparent, fair, and sustainable new economy on the Blockchain.
+The new way Creators Earn. \
+Welcome to the world’s most inclusive and diverse home for Creatives. Anthill is a global Creative Community who support each other creatively and financially.
 
-We provide a global network to enable creators to co-work and co-create in an environment where they can develop, share and get support.
+The Anthill is a Decentralised Autonomous Organisation (DAO) that has as objective the creation of a new economy to support human creativity.
 
-**The Anthill** uses an innovative tokenomy to help freelancers:
+The Anthill believes in collective intelligence and in the importance of collaboration. Sharing and remixing ideas is what is needed to achieve great innovation. Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives and this means that the Anthill needs to build a new economy that is capable to achieve sustainability for the parties that was to contribute.
 
-* Sell their services and Monetize their content
-* Receive a Passive Income
-* Ignite collaborations
-* Alleviate & Reduce Isolation
+True intelligence is collective intelligence, one that has the courage not just to follow pure logic and rationality. Intelligence is greater when can have inputs from lots of different sources and have different realities from where to gain insights. This is only achievable by utilising our human diversities as the basic elements of our collective intelligence. Being able to use our different senses, different experiences, different interpretations of our common reality is what allow us to have a higher level of understanding.\
+By collaborating we can connect with each other’s views and ideas and explore all those interpretations of realities. All these inputs are necessary for limitless creativity.&#x20;
 
-We offer entrepreneurial creators the facilities, network, and accredited training to become part of a global collective that provides higher exposure, better quality for content creation and monetization options.
-
-**The Anthill** is a modern, decentralized, bartering exchange trading system with a modern twist. We organize barter exchanges by using high-tech applied to a marketplace and advanced software systems.
-
-On our platform, members can offer services in exchange for Tokens. These **ANT Tokens** can then be used by members to buy services from other members and to shape their role within the community.
-
-By collaborating, sharing skills, and working together, the members generate both assets and income. At the same time, 20% of their revenue is given back to the community.
-
-This makes the community celebrate each other success as each member's success equals a passive income for all members.
-
-The higher the engagement Rank, the stronger the voting power for any decision that has to be made. The higher the Rank, the higher the Passive Income received.
-
-Along the process, smart contracts are used to increase the agreement's security, verify and enforce its negotiation and performance; making sure our platform becomes an easier and more secure way to work with others.
+The Anthill is where we celebrate each other dreams and we help each other to build those dreams. Where the success of one is the success of everyone. Is the place where we give to each other and receive from one another.\
+\

@@ -1,6 +1,9 @@
 # Table of contents
 
 * [The Anthill Project](README.md)
+* [The Community](the-community.md)
+* [The New Economy](the-new-economy.md)
+* [Decentralisation](decentralisation.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
 
 ## Protocol
@@ -26,4 +29,3 @@
 ## Misc
 
 * [Socials](misc/socials.md)
-
