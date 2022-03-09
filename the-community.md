@@ -11,6 +11,25 @@ Anyone can join the Anthill, but those that gain the most are those interested i
 We together can adjust and adapt our community to our needs and change everything we want. Implement new mechanisms, add and remove rules. \
 Together we fully control how the Anthill DAO works.&#x20;
 
+## ANTS (MEMBERS)
+
+Anthill is the home for creatives and anyone that want to support creativity.\
+To be an Ant you must believe in the power of contribution. The more you give the more you get.&#x20;
+
+#### If you belong to one of these categories, Anthill is for you:
+
+• **You believe you belong here** (no question asked)\
+• **Artist** (any form of art, no limits)\
+• **Creative** **Mind**\
+• **You Work in the Creative Industry**\
+• **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
+• **A fun, a lover for arts and creativity, an art collector etc.**\
+****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
+**• Marketing and Communication** \
+****• **Blockchain Developer**\
+**• Software Engineer, AI, Robotics etc**\
+**• You offer services to creative and in the creative industry (lawyer, accountant, etc)**
+
 ## VOTING POWER
 
 Our **voting power** is connected to the contribution we give to the community. \
@@ -25,23 +44,6 @@ Any Ant Member can become a custodian. To submit yourself as a custodian you mus
 
 The community at the moment has 3 custodians. The number of custodians will grow according to the size of the community. We follow the prime number to decide the numbers of custodians we have. ( 3, 5, 7, 11, 13, 17, 19, 23,... )
 
-## ANT (MEMBERS)
-
-Anthill is the home for creatives and anyone that want to support creativity.\
-To be an Ant you must believe in the power of contribution. The more you give the more you get.&#x20;
-
-If you belong to one of these categories, Anthill is for you:
-
-• **You believe you belong here** (no question asked)\
-• **Artist** (any form of art, no limits)\
-• **Creative** **Mind**\
-• **You Work in the Creative Industry**\
-• **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
-• **A fun, a lover for arts and creativity, an art collector etc.**\
-****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
-**• Marketing and Communication** \
-****• **Blockchain Developer**\
-**• Software Engineer, AI, Robotics etc**\
-**• You offer services to creative and in the creative industry (lawyer, accountat, etc)**\
+****\
 ****\
 ****
