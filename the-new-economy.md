@@ -15,7 +15,7 @@ We have created an incentive system to allow the traditional economy to finance 
 **ANT TOKEN ($ANTT)**, is governed by us (Anthill Community Treasury). \
 The Ant Token holders have access to our community, marketplace, services, metaverse, voting rights and everything we create.&#x20;
 
-### **The Ant Token gains 10% a year**
+### **THE ANT TOKEN GAINS 10% A YEAR**
 
 The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% a year** of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($,£ € etc).&#x20;
 
