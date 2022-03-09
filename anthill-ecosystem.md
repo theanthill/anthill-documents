@@ -2,7 +2,7 @@
 
 ## **PLATFORM**
 
-Build your profile and upload your portfolio, connect and collaborate with other members of the community, join other colonies, participate in the community governance, check your finances and much, much more...
+Build your profile and upload your portfolio, connect and collaborate with other members of the [community](the-community.md), join other [colonies](colony.md), participate in the community governance, check your finances and much, much more...
 
 ## MARKETPLACE
 
@@ -10,7 +10,7 @@ You now have your very own online storefront where you can sell your services, p
 
 ## UNIVERSAL BASIC INCOME (UBI)
 
-You receive a Universal Basic Income in proportion to your contribution to the community (participation, engagement, content, governance). \
+You receive a Universal Basic Income in proportion to your contribution to the community (participation, engagement, content, governance etc) (see [Ranking System](ranking-system.md)). \
 The more active you are, the more you Earn.
 
 ## AGENCY
@@ -19,7 +19,7 @@ A team of Ants are always hunting job opportunities and potential projects. Your
 
 ## **OFFICE & STUDIOS**
 
-Get together to create, collaborate, and explore new ideas. We are designing our spaces to foster human connection, spark meaningful collaborations, and unlock the full potential within our community.
+Get together to create, collaborate, and explore new ideas. We are designing our spaces to foster human connection, spark meaningful collaborations, and unlock the full potential within our community. (co-studios and co-working space)
 
 ## EDUCATION
 
