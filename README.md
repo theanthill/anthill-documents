@@ -12,17 +12,12 @@ The **Anthill is a Decentralised Autonomous Organisation (DAO)** that has as obj
 
 ## **Collective Intelligence**
 
-The Anthill believes in collective intelligence and in the importance of collaboration. \
-Sharing and remixing ideas is what is needed to achieve great innovation. \
-Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives and this means that the Anthill needs to build a new economy that is capable to achieve sustainability for the parties that want to contribute.
+Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve great innovation. Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives. This means that the Anthill needs to build a new economy capable of achieving sustainability for the parties that want to contribute.
 
-True intelligence is collective intelligence, one that has the courage not just to follow pure logic and rationality. Intelligence is greater when can have inputs from lots of different sources and have different realities from where to gain insights.&#x20;
+True intelligence is collective intelligence, one that has the courage not just to follow pure logic and rationality. Intelligence is more significant when it can have inputs from many sources and have different realities from where to gain insights.
 
-This is only achievable by utilising our human diversities as the basic elements of our collective intelligence. Being able to use our different senses, different experiences, different interpretations of our common reality is what allow us to have a higher level of understanding.\
-By collaborating we can connect with each other’s views and ideas and explore all those interpretations of realities. All these inputs are necessary for limitless creativity.&#x20;
+This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Being able to use our different senses, experiences, and interpretations of our common reality allows us to have a higher level of understanding. By collaborating, we can connect with each other’s views and ideas and explore all those interpretations of realities. All these inputs are necessary for limitless creativity.
 
-Creative intelligence is what is needed to overcome the challenges we have in this century.
+Creative intelligence is needed to overcome the challenges we have in this century.
 
-The Anthill is where we celebrate each other dreams and we help each other to build those dreams. Anthill is where the dreams come true. \
-Where the success of one is the success of everyone. Is the place where we give to each other and receive from one another.\
-\
+The Anthill is where we celebrate each other dreams, and we help each other to build those dreams. Anthill is where the dreams come true. Where the success of one is the success of everyone. It is where we give to each other and receive from one another.\
