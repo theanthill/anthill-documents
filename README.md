@@ -4,12 +4,13 @@ description: The first Decentralized Global Community for the Creatives
 
 # The Anthill Project
 
-**The new way Creators Earn.** \
+### **The new way Creators Earn.**&#x20;
+
 Welcome to the world’s most inclusive and diverse home for Creatives. Anthill is a global Creative Community that support each other creatively and financially.
 
 The **Anthill is a Decentralised Autonomous Organisation (DAO)** that has as objective the creation of a **new economy** and **ecosystem** to support human creativity.
 
-
+## **Collective Intelligence**
 
 The Anthill believes in collective intelligence and in the importance of collaboration. \
 Sharing and remixing ideas is what is needed to achieve great innovation. \
