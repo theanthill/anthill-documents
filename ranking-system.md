@@ -2,7 +2,7 @@
 description: Voting Power and UBI received
 ---
 
-# Ranking System Overview
+# Ranking System
 
 Each member of the community earns two coefficients: one representing the member's economic stake (i.e., ANTT token holdings), and one representing the member's community contribution (i.e., hours contributed towards the betterment of community goals). These two coefficients determine the distributions of Anthill Universal Basic Income UBI (passive income) and Voting Power in the community.
 
@@ -57,4 +57,4 @@ The more you are successful on the marketplace by offering quality services and 
 
 
 **Financial Contribution**\
-We value financial contribution in form of participation in the Anthill Token Liquidity Pool, in locking the ANT Token (staking), in purchasing the ANTB (bond), in investing in community projects, individuals and colonies projects
+We value financial contribution in form of participation in the Anthill Token Liquidity Pool, in locking the ANT Token (staking), in purchasing the ANTB (bond), in investing in the community, individuals and colonies projects
