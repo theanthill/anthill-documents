@@ -15,8 +15,7 @@ The more active you are, the more you Earn.
 
 ## AGENCY
 
-A team of Ants are always hunting job opportunities and potential projects. Your next project can come to you. Spend more time creating and less time hustling your next move.\
-
+A team of Ants are always hunting job opportunities and potential projects. Your next project can come to you. Spend more time creating and less time hustling your next move.
 
 ## **OFFICE & STUDIOS**
 
