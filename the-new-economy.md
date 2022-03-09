@@ -19,6 +19,6 @@ The Ant Token holders have access to our community, marketplace, services, metav
 
 The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% a year** of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($,£ € etc).&#x20;
 
-<mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
+### <mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
 
 Thanks to our economy, Anthill, rewards its members with a Universal Basic Income (UBI), paid daily and in proportion to our contribution ([Ranking System](ranking-system.md)).&#x20;
