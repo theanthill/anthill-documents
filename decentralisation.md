@@ -12,6 +12,6 @@ The solution is to create a “machine” that we can trust, that cannot discrim
 To do this we need a technology that is censor resistant (unstoppable), open-source so that everyone can check the code and that is extremely hard/impossible to be hacked. \
 This technology is called Blockchain.&#x20;
 
-Blockchain is the only technology that can guarantee us full decentralization and autonomous functionalities that can constantly reward our contributions and enforce our agreements.&#x20;
+**Blockchain** is the only technology that can guarantee us full decentralization and autonomous functionalities that can constantly reward our contributions and enforce our agreements.&#x20;
 
-We are building a Web3 application.
+**We are building a Web3 application.**
