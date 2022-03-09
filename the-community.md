@@ -4,7 +4,9 @@ description: self-governed, run by the members
 
 # The Community
 
-**Anthill community is run by its members and its custodians**, each member has voting power, each one of us can propose ideas and vote for them.&#x20;
+Anyone can join the Anthill, but those that gain the most are those interested in creativity.|
+
+**Anthill community is run by its members**, each member has voting power, each one of us can propose ideas and vote for them.&#x20;
 
 We together can adjust and adapt our community to our needs and change everything we want. Implement new mechanisms, add and remove rules. \
 Together we fully control how the Anthill DAO works.&#x20;
@@ -17,8 +19,25 @@ Nothing matters apart from your contribution in making the collective intelligen
 
 ## CUSTODIANS
 
-Custodians are voted by the community, their role is to update the code and manage the day by day activities of the community.
+Custodians are voted by the community, they are community members whose role is to update the code and manage the day by day activities of the community.
 
 Any Ant Member can become a custodian. To submit yourself as a custodian you must have a high level of contribution to the community, this is calculated by Anthill Ranking System (see [Ranking System](ranking-system.md))
 
 The community at the moment has 3 custodians. The number of custodians will grow according to the size of the community. We follow the prime number to decide the numbers to custodians we need. ( 3, 5, 7, 11, 13, 17, 19, 23,... )
+
+## ANT (MEMBERS)
+
+Anthill is the home for creatives and anyone that want to support creativity.\
+To be an Ant you must believe in the power of contribution. The more you give the more you get.&#x20;
+
+If you belong to one of these categories, Anthill is for you:
+
+• **Artist** (any form of art, no limits)\
+• **Creative** **Mind**\
+• **You Work in the Creative Industry**\
+• **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
+• **A fun, a lover for arts and creativity, an art collector etc.**\
+****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
+****• **Blockchain Developer**\
+• **You believe you belong here** (no question asked)\
+\
