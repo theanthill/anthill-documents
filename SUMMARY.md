@@ -6,7 +6,7 @@
 * [Decentralisation](decentralisation.md)
 * [Colony](colony.md)
 * [Ranking System](ranking-system.md)
-* [ANTHILL ECOSYSTEM](anthill-ecosystem.md)
+* [Anthill Ecosystem](anthill-ecosystem.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
 
 ## Protocol
