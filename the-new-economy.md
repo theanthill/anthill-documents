@@ -10,12 +10,14 @@ In this new system, Anthill is giving value to your contribution and creativity.
 Anthill has built a system that interfaces our economy with the traditional economy. \
 We have created an incentive system to allow the traditional economy to finance ours. We have created our own currency, a currency that is better than traditional money. One that has superpowers, one that not just can be used for the exchange of value but a token with lots of other utilities.&#x20;
 
-## Our Cryptocurrency&#x20;
+## OUR CRYPTOCURRENCY  - ANT TOKEN
 
 **ANT TOKEN ($ANTT)**, is governed by us (Anthill Community Treasury). \
 The Ant Token holders have access to our community, marketplace, services, metaverse, voting rights and everything we create.&#x20;
 
-The Ant Token gains value over time, thanks to our algorithm the Ant Token gains 10% a year of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($,£ € etc).&#x20;
+### **The Ant Token gains 10% a year**
+
+The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% a year** of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($,£ € etc).&#x20;
 
 <mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
 
