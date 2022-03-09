@@ -30,6 +30,7 @@ Each Ant account can own up to 5 Colonies but can be part of an unlimited number
 • Keep the Organisation/Company identity within the Anthill Community \
 • Match Making Tool for Colony (get connected with people that could be interested in becoming members of your company) \
 • \*Early Adopters get their Colony Name for Free\
+• Earn a passive income by contributing to the Anthill Community \
 • Access to Anthill Social Tools as Colony \
 • Access to Anthill Marketplace as Colony \
 • Access to Anthill Financial Tools (Defi) as Colony \

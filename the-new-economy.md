@@ -17,7 +17,7 @@ The Ant Token holders have access to our community, marketplace, services, metav
 
 ### **THE ANT TOKEN GAINS 10% A YEAR**
 
-The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% a year** of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($,£ € etc).&#x20;
+The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% a year** of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($ £ € etc).&#x20;
 
 ### <mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
 
