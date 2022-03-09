@@ -1,3 +1,14 @@
+---
+description: self-governed, run by the members
+---
+
 # The Community
 
-The Anthill community is run by their members, each member has voting power, each one of us can propose ideas and vote for them. We together can adjust and change everything we want. Implement new mechanisms, add and remove rules. Together we fully control how the Anthill DAO works. Our voting power is connected to the contribution we give to the community. The more we contribute the more voting power we have. Doesn’t matter how famous you are, how rich you are or well connected you are. Doesn’t matter where you come from, your ethnicity, your gender or sexuality. Nothing matters apart from your contribution to making the collective intelligence grow. Create, innovate, contribute, help, facilitate, support, do the art you love and the Anthill will reward you for your contribution.
+The Anthill community is run by their members, each member has voting power, each one of us can propose ideas and vote for them.&#x20;
+
+We together can adjust and adapt our community to our needs and change everything we want. Implement new mechanisms, add and remove rules. \
+Together we fully control how the Anthill DAO works. \
+\
+Our voting power is connected to the contribution we give to the community. \
+The more we contribute the more voting power we have. Doesn’t matter how famous you are, how rich you are or well connected you are. Doesn’t matter where you come from, your ethnicity, your gender or sexuality. \
+Nothing matters apart from your contribution in making the collective intelligence grow. Create, innovate, contribute, help, facilitate, support, do the art you love and the Anthill will reward you for your contribution.
