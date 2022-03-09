@@ -4,7 +4,7 @@ description: The first Decentralized Global Community for the Creatives
 
 # The Anthill Project
 
-### **The new way Creators Earn.**&#x20;
+## **The new way Creators Earn.**&#x20;
 
 Welcome to the world’s most inclusive and diverse home for Creatives. Anthill is a global Creative Community that support each other creatively and financially.
 
