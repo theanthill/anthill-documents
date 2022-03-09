@@ -6,8 +6,7 @@
 * [The New Economy](the-new-economy.md)
 * [Decentralisation](decentralisation.md)
 * [Colony](colony.md)
-* [Ranking System Overview](ranking-system-overview.md)
-* [Ranking System Categories](ranking-system-categories.md)
+* [Ranking System](ranking-system.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
 
 ## Protocol
