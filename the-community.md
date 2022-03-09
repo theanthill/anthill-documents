@@ -32,12 +32,16 @@ To be an Ant you must believe in the power of contribution. The more you give th
 
 If you belong to one of these categories, Anthill is for you:
 
+• **You believe you belong here** (no question asked)\
 • **Artist** (any form of art, no limits)\
 • **Creative** **Mind**\
 • **You Work in the Creative Industry**\
 • **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
 • **A fun, a lover for arts and creativity, an art collector etc.**\
 ****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
+**• Marketing and Communication** \
 ****• **Blockchain Developer**\
-• **You believe you belong here** (no question asked)\
-\
+**• Software Engineer, AI, Robotics etc**\
+**• You offer services to creative and in the creative industry (lawyer, accountat, etc)**\
+****\
+****
