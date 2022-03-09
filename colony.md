@@ -34,9 +34,9 @@ Each Ant account can own up to 5 Colonies but can be part of an unlimited number
 • Match Making Tool for Colony (get connected with people that could be interested in becoming members of your company) \
 •  \*Early Adopters get their Colony Name for Free
 
-Optional Benefits: \
-• nternal advanced governance system \
+**Optional Benefits:** \
+• internal advanced governance system for the Colony\
 • Own token, pegged or not pegged to the Ant Token
 
-\*Early Adopters: \
+**\*Early Adopters:** \
 Committing your Organisation to become part of the Anthill before the launch day, allow you to get the Colony Name for free of your organisation.
