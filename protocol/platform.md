@@ -10,7 +10,7 @@ description: Runs over Polygon Blockchain (Ethereum)
 
 ## Banks
 
-Bank Pools (Farming details can be found [here](https://medium.com/midasprotocol/introducing-the-midas-dollar-ab99a5bcd526))
+Bank Pools&#x20;
 
 * ANTT/UST
 * ANTT/MATIC
