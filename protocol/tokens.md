@@ -1,6 +1,6 @@
 # Tokens
 
-## ANT Token
+## ANTT - ANT Token
 
 The ANT Token (ANTT) is a utility token designed to be used as governance for the Decentralized Autonomous Organization (DAO) **The Anthill**, as a medium of exchange, to pay rewards, and for purchasing products and services in the Anthill Marketplace. ANTT holders can have access to the platform, tools and service available in the Anthill Community.
 
@@ -21,3 +21,11 @@ ANTS have a maximum total supply of 21,000,000 tokens. 10% (2,100,000) is alloca
 ANT Bonds (ANTB) help to incentivize changes in ANTT supply during both epoch expansion and contraction periods. For starters, the exchange rate for ANTT to ANTB is 1:1, but ANTB to ANTT ratio is dependent upon the mechanism as described here. When ANTT's TWAP falls below the target value, ANTB gets issued and can be bought with ANTT at its prevailing price. Doing so takes ANTT out of its circulating supply.
 
 Contrary to early algorithmic, seigniorage stablecoin protocols, ANTB does not have an expiration date. All holders can redeem their ANTB for ANTT tokens as long as the Treasury has a positive ANTT balance, which typically happens when the protocol is in epoch expansion.
+
+## ANTC - ANT Contract
+
+ANT Contract (ANTC) is a long term staking token that gains an additional 5% per year on top of the 10% that the ANTT gains.\
+You can swap ANTT for ANTC by using the ANTC Smart Contract which locks your investment for 3, 6 or 12 months. \
+3 months contract gives +2% of your locked investment \
+6 months contract gives +3.5% of your locked investment \
+12 months contract gives +5% of your locked investment&#x20;
