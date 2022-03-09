@@ -58,7 +58,7 @@ This category measures your contribution in providing peer mentoring to other co
 
 ### **UBI Contribution**
 
-Using the Anthill Agency and participating in our Bounties means you give part of your earnings back to the Anthill Treasury. This is considered a financial contribution that is rewarded by this ranking category.
+Using the Anthill Agency and participating in our Bounties means you give part of your earnings back to the Anthill Community Treasury. This is considered a financial contribution that is rewarded by this ranking category.
 
 ### **Financial Contribution**
 
