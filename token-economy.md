@@ -10,7 +10,7 @@ At every moment, the algorithm calculates the target price of the ANTT and decid
 
 When the value of the ANTT is higher than the target price, the algorithm needs to expand the liquidity and, therefore, MINT new tokens (_In cryptocurrency, minting is a decentralized method that enables the_ algorithm _to generate a new token_).
 
-When the value of the ANTT is lower than the target price, the algorithm needs to contract and create scarcity in the Liquidity Pool. This is done by rewarding the liquidity provider with incentives to remove ANTT from the liquidity pool and also purchasing ANTT in exchange for UST (dollars)
+When the value of the ANTT is lower than the target price, the algorithm needs to contract and create scarcity in the Liquidity Pool. This is done by rewarding the liquidity providers with incentives to remove ANTT from the liquidity pool (ANTB and ANTC) and the lower value is an incentive itself for purchasing ANTT at a discount.
 
 ## New-minted tokens distribution&#x20;
 
