@@ -4,7 +4,7 @@ description: Higher Security, More Transparency, Censor Resistance
 
 # Decentralisation
 
-To make the Anthill possible we need trust in ourselves and trust in the system that enforces and regulate the community and the token.&#x20;
+To make Anthill possible we need trust in ourselves and trust in the system that enforces and regulate the community and the token.&#x20;
 
 This trust shouldn’t be given to individuals, because people can be corrupted and people could discriminate. \
 The solution is to create a “machine” that we can trust, that cannot discriminate or be corrupted by anyone. A system that together we can improve and develop.&#x20;

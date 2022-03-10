@@ -1,12 +1,12 @@
 ---
 description: >-
-  Welcome to The Anthill Protocol - an algorithmic token with a constantly
+  Welcome to the Anthill Protocol - an algorithmic token with a constantly
   increasing target value. The token runs on Polygon Blockchain
 ---
 
 # The Anthill Protocol
 
-The Anthill Team designs the Anthill Protocol. The protocol is an innovative solution that can adjust its supply deterministically to move the token price in the direction of a target price.
+Anthill Team designs the Anthill Protocol. The protocol is an innovative solution that can adjust its supply deterministically to move the token price in the direction of a target price.
 
 The Anthill is a multi-token protocol that consists of three tokens:
 
