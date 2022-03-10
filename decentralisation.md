@@ -14,6 +14,6 @@ This technology is called Blockchain.&#x20;
 
 **Blockchain** is the only technology that can guarantee us full decentralization and autonomous functionalities that can constantly reward our contributions and enforce our agreements.&#x20;
 
-**We are building a Web3 application on Polygon**
+### **We are building a Web3 application on Polygon**
 
 ****[**Polygon**](https://polygon.technology) **** is a decentralised **Ethereum** scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
