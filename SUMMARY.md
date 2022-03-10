@@ -7,7 +7,7 @@
 * [Decentralisation - Blockchain](decentralisation-blockchain.md)
 * [Colony](colony.md)
 * [Ranking System](ranking-system.md)
-* [Token Economy - Introduction](token-economy-introduction.md)
+* [Token Economy](token-economy.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
 
 ## Protocol
