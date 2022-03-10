@@ -18,7 +18,7 @@ Anthill believes in collective intelligence and the importance of collaboration.
 
 True intelligence is collective intelligence, one that has the courage not just to follow pure logic and rationality. Intelligence is more significant when it can have inputs from many sources and have different realities from where to gain insights.
 
-This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Being able to use our different senses, experiences, and interpretations of our common reality allows us to have a higher level of understanding. By collaborating, we can connect with each other’s views and ideas and explore all those interpretations of realities. All these inputs are necessary for limitless creativity.
+This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Using our different senses, experiences, and interpretations of our common reality allows us to have a higher level of understanding. By collaborating, we can connect with each other’s views and ideas and explore all those interpretations of realities. All these inputs are necessary for limitless creativity.
 
 Creative intelligence is needed to overcome the challenges we have in this century.
 
