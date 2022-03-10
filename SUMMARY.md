@@ -4,7 +4,7 @@
 * [Anthill Ecosystem](anthill-ecosystem.md)
 * [The Community](the-community.md)
 * [The New Economy](the-new-economy.md)
-* [Decentralisation](decentralisation.md)
+* [Decentralisation - Blockchain](decentralisation-blockchain.md)
 * [Colony](colony.md)
 * [Ranking System](ranking-system.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
