@@ -1,5 +1,5 @@
 ---
-description: The first Decentralized Global Community for the Creatives
+description: The First Decentralized Global Community for the Creatives
 ---
 
 # Anthill Community
