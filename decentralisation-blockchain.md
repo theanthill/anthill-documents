@@ -28,20 +28,16 @@ Polygon combines the best of Ethereum and sovereign blockchains into a full-fled
 
 Over 7000+ dApps have used Polygon to scale their performance
 
-### Polygon makes Ethereum accessible for all
+### Polygon makes Ethereum accessible for all.
 
-**ETH Compatibility**
+**ETH Compatibility**\
+****Industry dominance, established tech stack, tools, languages, standards, enterprise adoption
 
-Industry dominance, established tech stack, tools, languages, standards, enterprise adoption
+**Scalability**\
+****Dedicated blockchains, scalable consensus algorithms, custom Wasm execution environments
 
-**Scalability**
+**Security**\
+****Modular ''security as a service'', provided either by Ethereum or by a pool of professional validators
 
-Dedicated blockchains, scalable consensus algorithms, custom Wasm execution environments
-
-**Security**
-
-Modular ''security as a service'', provided either by Ethereum or by a pool of professional validators
-
-**Developer Experience**
-
-Equivalent to Ethereum, no protocol level knowledge required, no token deposits, fees or permissions
+**Developer Experience**\
+****Equivalent to Ethereum, no protocol level knowledge required, no token deposits, fees or permissions
