@@ -30,4 +30,6 @@ When the value of the ANTT is higher than the target price, the algorithm needs 
 
 **Community members can utilise their tokens in Anthill Marketplace, in the coworking and co-studio spaces, in the metaverse, in our learn by doing system or exchange them for traditional fiat currencies ( $ £ € etc.).**
 
-There are micro fees every time a smart contract is used. Together with the other earnings made by Anthill Treasury, those fees are burned (destroyed) or used to purchase digital assets (BTC).
+## Micro Fees
+
+There are micro fees every time a smart contract is used. Together with the other earnings made by Anthill Treasury, those fees are burned (destroyed to create scarcity) or used to purchase digital assets (BTC).
