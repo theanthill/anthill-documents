@@ -7,8 +7,9 @@ description: Cryptocurrency - Ant Token - $ANTT
 To make this possible Anthill has designed a new economy. \
 In this new system, Anthill is giving value to your contribution and creativity. In this new system, we collectively decide the rules.&#x20;
 
-Anthill has built a system that interfaces our economy with the traditional economy. \
-We have created an incentive system to allow the traditional economy to finance ours. We have created our own currency, a currency that is better than traditional money. One that has superpowers, one that not just can be used for the exchange of value but a token with lots of other utilities.&#x20;
+Anthill has built a system that interfaces our new economy with the traditional economy. \
+We have created an incentive system to allow the traditional economy to finance ours. \
+We have created our own currency, a currency that is better than traditional money. One that has superpowers, one that not just can be used for the exchange of value but a token with lots of other utilities, able to align the interests of everyone that participates in the ecosystem.
 
 ## OUR CRYPTOCURRENCY  - ANT TOKEN
 
@@ -21,4 +22,4 @@ The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token
 
 ### <mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
 
-Thanks to our economy, Anthill, rewards its members with a Universal Basic Income (UBI), paid daily and in proportion to our contribution ([Ranking System](ranking-system.md)).&#x20;
+Thanks to our [Token Economy](token-economy.md), Anthill, rewards its members with a Universal Basic Income (UBI), paid daily and in proportion to our contribution ([Ranking System](ranking-system.md)).  Every action is rewarded.
