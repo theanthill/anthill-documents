@@ -1,7 +1,5 @@
 ---
-description: >-
-  Organisations, Groups etc can join the Anthill Community with their own
-  identities
+description: Organisations, Groups etc can join Anthill with their own identities
 ---
 
 # Colony
