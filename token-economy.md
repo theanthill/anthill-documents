@@ -1,6 +1,6 @@
 # Token Economy
 
-The Success of the Anthill Community is connected to the success of the Ant Token and vice versa. This aligns with the interest of everyone that is part of the Anthill Ecosystem.
+The Success of the Anthill Community is connected to the success of the Ant Token and vice versa. This aligns with the interests of everyone that is part of the Anthill Ecosystem.
 
 ![click to enlarge](<.gitbook/assets/Anthill Token Economy (1).png>)
 
