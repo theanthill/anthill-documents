@@ -40,23 +40,23 @@ Together with your Achievements, this ranking allows the unlocking of our advanc
 On Anthill Platform there are some specific tasks that get rewarded. \
 Each one of them once compleated is recognised as an achievement. Each one of them gives you an NFT (locked to your account) that together with the Experience LVL, give you access to new tools.
 
-### **Content Reputation**
+### **Content Contribution**
 
-The more content you create/share the more is your contribution to the community, this is rewarded with the Content Ranking.
+The more content you create and share the more is your contribution to the community, this is rewarded with the Content Ranking.
 
-### **Service and Product Reputation**
+### **Service and Product Contribution**
 
 The more you are successful on the marketplace by offering quality services and products or/and my purchased services and products the more you rank up in this category.&#x20;
 
-### **Governance Reputation**
+### **Governance Contribution**
 
 You can contribute by voting and making propositions on how to shape and improve the Anthill Community
 
-### **Mentoring Reputation**
+### **Mentoring Contribution**
 
 This category measures your contribution in providing peer mentoring to other community members. To become a community peer mentor you have to gain experience and get some specific achievements (EDU)
 
-### **UBI Contribution**
+### **Treasury Contribution**
 
 Using the Anthill Agency and participating in our Bounties means you give part of your earnings back to the Anthill Community Treasury. This is considered a financial contribution that is rewarded by this ranking category.
 
