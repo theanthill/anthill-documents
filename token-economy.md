@@ -8,9 +8,9 @@ The Ant Token (ANTT) is an algorithmic token that gains 10% of its value a year.
 
 At every moment, the algorithm calculates the target price of the ANTT and decides if it needs to contract or expand the liquidity of the ANTT in the market (Liquidity Pool).
 
-When the value of the ANTT is higher than the target price, the algorithm needs to expand the liquidity and, therefore, MINT new token.&#x20;
+When the value of the ANTT is higher than the target price, the algorithm needs to expand the liquidity and, therefore, MINT new tokens (_In cryptocurrency, minting is a decentralized method that enables the_ algorithm _to generate a new token_).
 
-The new-minted tokens get distributed.&#x20;
+## New-minted tokens distribution.&#x20;
 
 90% goes to Anthill Community Treasury, and 10% goes to Anthill HQ. (The UK limited company in charge to develop Anthill Community). The Anthill HQ spends these new tokens on financing new developments.
 
