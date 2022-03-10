@@ -10,6 +10,8 @@ Welcome to the world's most inclusive and diverse home for Creatives. **Anthill 
 
 The **Anthill is a Decentralised Autonomous Organisation (DAO)** that has as objective to support human creativity.
 
+Anthill is a collective identity. A form of intelligence.
+
 ## **Collective Intelligence**
 
 Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve great innovation. Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives. This means that the Anthill needs to build a new economy capable of achieving sustainability for the parties that want to contribute.
