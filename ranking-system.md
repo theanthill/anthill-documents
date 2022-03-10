@@ -21,12 +21,12 @@ UBI is distributed according to the community contribution coefficient. Each mem
 ### **Defining goals for the Ranking System**&#x20;
 
 • Decentralization of power \
-• Decentralization of \`wealth' \
+• Decentralization of 'wealth' \
 • Fairness, equity, inclusion \
 • Stability of ANT token value \
 • Growth of ANT token value\
 • Growth of community\
-&#x20;• Stability of community governance
+• Stability of community governance
 
 ## **The eight categories are:**&#x20;
 
