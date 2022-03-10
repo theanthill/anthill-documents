@@ -16,7 +16,7 @@ Website: [https://anthill.community/](https://anthill.community)
 
 ## **Collective Intelligence**
 
-Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve great innovation. Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives. This means that the Anthill needs to build a new economy capable of achieving sustainability for the parties that want to contribute.
+Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve great innovation. Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives. This means that Anthill needs to build a new economy capable of achieving sustainability for the parties that want to contribute.
 
 True intelligence is collective intelligence, one that has the courage not just to follow pure logic and rationality. Intelligence is more significant when it can have inputs from many sources and have different realities from where to gain insights.
 
@@ -24,4 +24,5 @@ This is only achievable by utilising our human diversities as the essential elem
 
 Creative intelligence is needed to overcome the challenges we have in this century.
 
-Anthill is where we celebrate each other dreams, and we help each other to build those dreams. Anthill is where the dreams come true. Where the success of one is the success of everyone. It is where we give to each other and receive from one another.\
+Anthill is where we celebrate each other dreams, and we help each other to build those dreams. Anthill is where the dreams come true. \
+**Where the success of one is the success of everyone.** It's where we give to each other and receive from one another.\
