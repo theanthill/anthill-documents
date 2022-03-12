@@ -14,7 +14,7 @@ We have created our own currency, a currency that is better than traditional mon
 ## OUR CRYPTOCURRENCY  - ANT TOKEN
 
 **ANT TOKEN ($ANTT)**, is governed by us (Anthill Community Treasury). \
-The Ant Token holders have access to our community, marketplace, services, metaverse, voting rights and everything we create.&#x20;
+The Ant Token holders have access to our community, marketplace, services, metaverse, have voting rights and more.&#x20;
 
 ### **THE ANT TOKEN GAINS 10% A YEAR**
 
