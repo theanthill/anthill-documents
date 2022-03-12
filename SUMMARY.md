@@ -5,7 +5,7 @@
 * [The Community](the-community.md)
 * [The New Economy](the-new-economy.md)
 * [Decentralisation - Blockchain](decentralisation-blockchain.md)
-* [Colony](colony.md)
+* [Colonies](colonies.md)
 * [Ranking System](ranking-system.md)
 * [Token Economy](token-economy.md)
 * [The Anthill Protocol](the-anthill-protocol.md)

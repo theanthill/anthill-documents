@@ -2,7 +2,7 @@
 
 ## **PLATFORM**
 
-Build your profile and upload your portfolio, connect and collaborate with other members of the [community](the-community.md), join other [colonies](colony.md), participate in the community governance, check your finances and much, much more...
+Build your profile and upload your portfolio, connect and collaborate with other members of the [community](the-community.md), join other [colonies](colonies.md), participate in the community governance, check your finances and much, much more...
 
 ## MARKETPLACE
 
