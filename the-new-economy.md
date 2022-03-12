@@ -16,9 +16,9 @@ We have created our own currency, a currency that is better than traditional mon
 **ANT TOKEN ($ANTT)**, is governed by us (Anthill Community Treasury). \
 The Ant Token holders have access to our community, marketplace, services, metaverse, have voting rights and more.&#x20;
 
-### **THE ANT TOKEN GAINS 10% A YEAR**
+### **THE ANT TOKEN GAINS 10% OF ITS VALUE A YEAR**
 
-The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% a year** of its value. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($ £ € etc).&#x20;
+The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token gains 10% of its value a year**. This gives us increasing purchasing power and overcomes inflation, making it better than any other fiat currency out there ($ £ € etc).&#x20;
 
 ### <mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
 
