@@ -44,6 +44,18 @@ Any Ant Member can become a custodian. To submit yourself as a custodian you mus
 
 The community at the moment has 3 custodians. The number of custodians will grow according to the size of the community. We follow the prime number to decide the numbers of custodians we have. ( 3, 5, 7, 11, 13, 17, 19, 23,... )
 
-****\
+## **MEMBERSHIP**
+
+**Anyone can join Anthill for free, the free account gives what most members need.**&#x20;
+
+We also have some advanced tools that can be accessed via a membership.
+
+Some of the memberships are for our physical space. These allow access to the co-working and co-studio spaces plus other benefits.&#x20;
+
+The online memberships are for getting specific support and tools, for example, advanced marketing, support and tools and support for finding job opportunities, support with our educational program, extra file storage and more.&#x20;
+
+There are memberships specific for some category of Ants, those are for accessing some specific support and advanced tools for investors and for colonies (organisations).
+
+We believe in financial inclusion, Anthill membership**s** will be affordable and easily covered by our universal basic income rewarded for the members' activities.\
 ****\
 ****
