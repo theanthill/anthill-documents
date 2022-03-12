@@ -46,16 +46,16 @@ The community at the moment has 3 custodians. The number of custodians will grow
 
 ## **MEMBERSHIP**
 
-**Anyone can join Anthill for free, the free account gives what most members need.**&#x20;
+**Anyone can join Anthill for free. The free account gives what most members need.**&#x20;
 
 We also have some advanced tools that can be accessed via a membership.
 
-Some of the memberships are for our physical space. These allow access to the co-working and co-studio spaces plus other benefits.&#x20;
+Some of the memberships are for our **physical space**. These allow access to the co-working and co-studio spaces plus other benefits.&#x20;
 
-The online memberships are for getting specific support and tools, for example, advanced marketing, support and tools and support for finding job opportunities, support with our educational program, extra file storage and more.&#x20;
+The **online memberships** are for getting specific support and tools, for example, advanced marketing, support and tools and support for finding job opportunities, help with our educational program, extra file storage and more.&#x20;
 
-There are memberships specific for some category of Ants, those are for accessing some specific support and advanced tools for investors and for colonies (organisations).
+There are memberships specific for some category of Ants. Those are for accessing specific support and advanced tools for investors and colonies (organisations).
 
-We believe in financial inclusion, Anthill membership**s** will be affordable and easily covered by our universal basic income rewarded for the members' activities.\
+**We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our universal basic income rewarded for the members' activities.**\
 ****\
 ****
