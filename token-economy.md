@@ -20,15 +20,15 @@ When the value of the ANTT is lower than the target price, the algorithm needs t
 
 • Paying Rewards to community members (incentives).
 
-• Investing in Community Projects.
+• Investing in Community Projects (Working Proposals).
 
-• Our UBI (Universal Basic Income)
+• Our UBI (Universal Basic Income) is paid to members.
 
 • Participating in the ANTT/UST and ANT/MATIC Liquidity Pool
 
 • Increasing the Treasury Cash Reserve
 
-• Purchasing of Digital assets (Bitcoin), having BTC is an extra level of stability for the ANTT. This makes the Ant Token not just an algorithmic token but one that is partially backed by Bitcoin.
+• Purchasing of Digital assets (Bitcoin, Ethereum, Matic), having BTC and others quality digital assets create an extra level of stability for the ANTT. This makes the **Ant Token is an algorithmic token that is partially backed by Bitcoin and other Cryptos** which can be used to passively and actively stabilise the value of the ANTT in the market.
 
 **Community members can utilise their tokens in Anthill Marketplace, in the coworking and co-studio spaces, in the metaverse, in our learn by doing system or exchange them for traditional fiat currencies ( $ £ € etc.).**
 
