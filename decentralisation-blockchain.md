@@ -18,13 +18,17 @@ This technology is called Blockchain.&#x20;
 
 ## **WHY POLYGON**
 
-****[**Polygon**](https://polygon.technology) **** is the **Eco-Friendly Blockchain Scaling** **Ethereum** platform that enables developers to build scalable decentralised user-friendly dApps with low transaction fees without ever sacrificing on security.
+****[**Polygon**](https://polygon.technology) **** is the [**Eco-Friendly**](https://blog.polygon.technology/polygon-the-eco-friendly-blockchain-scaling-ethereum-bbdd52201ad/) **Blockchain Scaling** [**Ethereum**](https://ethereum.org/en/) platform that enables developers to build scalable decentralised user-friendly dApps with low transaction fees without ever sacrificing on security.
+
+![](<.gitbook/assets/polygon eco friendly.png>)
 
 Polygon combines the best of Ethereum and sovereign blockchains into a full-fledged multi-chain system.
 
 * It is able to fully benefit from Ethereum’s network effects
 * It is inherently more secure
 * It is more open and powerful
+
+
 
 Over 7000+ dApps have used Polygon to scale their performance
 
