@@ -18,7 +18,7 @@ This technology is called Blockchain.&#x20;
 
 ## **WHY POLYGON**
 
-****[**Polygon**](https://polygon.technology) **** is a decentralised **Ethereum** scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
+****[**Polygon**](https://polygon.technology) **** is the **Eco-Friendly Blockchain Scaling** **Ethereum** platform that enables developers to build scalable decentralised user-friendly dApps with low transaction fees without ever sacrificing on security.
 
 Polygon combines the best of Ethereum and sovereign blockchains into a full-fledged multi-chain system.
 
