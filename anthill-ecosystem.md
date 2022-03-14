@@ -23,4 +23,4 @@ Get together to create, collaborate, and explore new ideas. We are designing our
 
 ## EDUCATION
 
-Learn by doing. When using the platform, evidence of your work gets collected. According to your level of professional expertise, you can receive a qualification up to PhD level, for a fifth of the price.
+Practice-based Learning & Practice-led Research. When using the platform, evidence of your work gets collected. According to your level of professional expertise (Skills), you can receive a qualification up to PhD level, for a fifth of the price.
