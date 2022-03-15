@@ -8,7 +8,11 @@ description: The First Decentralized Global Community for the Creatives
 
 Welcome to the world's most inclusive and diverse home for Creatives. **Anthill is a Global Community** that gives financial support to all members. It's the place where creative minds can connect, collaborate and support each other.&#x20;
 
-**Anthill is a Decentralised Autonomous Organisation (DAO)** that has as objective to support human creativity and the industry around it.
+**Anthill is a Decentralised Autonomous Organisation (DAO)** that has the objective to support human creativity and the industry around it.\
+The creative process needs to be financially sustainable. Anthill has built a new economy capable of achieving sustainability for those that want to contribute.
+
+Anthill is where we celebrate each other dreams, and we help each other to build those dreams. **Where the success of one is the success of everyone.** It's where we give to each other and receive from one another. \
+Welcome to the contribution economy.
 
 Anthill is a collective identity. A form of intelligence.\
 \
@@ -16,13 +20,18 @@ Website: [https://anthill.community/](https://anthill.community)
 
 ## **Collective Intelligence**
 
-Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve great innovation. Creativity is the source of every innovation. The creative process needs to be financially sustainable for the creatives. This means that Anthill needs to build a new economy capable of achieving sustainability for the parties that want to contribute.
+Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve greater art and innovation.&#x20;
 
-True intelligence is collective intelligence, one that has the courage not just to follow pure logic and rationality. Intelligence is more significant when it can have inputs from many sources and have different realities from where to gain insights.
+True intelligence is collective intelligence, one that does not just follow pure logic and rationality but one that has the courage to also explore feelings and emotions. \
+Intelligence is more significant when it can have inputs from many sources and have different realities from where to gain insights.
 
-This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Using our different senses, experiences, and interpretations of our common reality allow us to have a higher level of understanding. By collaborating, we can connect with each other’s views and ideas and explore all those interpretations of realities. All these inputs are necessary for limitless creativity.
+This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Using our different senses, experiences, emotions and interpretations of our realities allow us to achieve higher level of understanding, to see and understand what we couldn't do from one single perspective.&#x20;
 
-Creative intelligence is needed to overcome the challenges we have in this century.
+**On Anthill the voices from minorities get loud and their contribution is honoured.**
 
-Anthill is where we celebrate each other dreams, and we help each other to build those dreams. Anthill is where the dreams come true. \
-**Where the success of one is the success of everyone.** It's where we give to each other and receive from one another.\
+By collaborating, we can connect with each other’s views and ideas allowing each one of us to learn and explore all those interpretations of realities. All these inspiring inputs are necessary for limitless creativity. Sharing and trusting bring new art and more innovation. &#x20;
+
+Creative intelligence is also needed to overcome the challenges we are facing in this century.
+
+\
+\
