@@ -45,7 +45,7 @@ Nothing matters apart from your contribution in making the collective intelligen
 
 Custodians are voted by the community, they are community members whose role is to update the code and manage the day by day activities of the community.
 
-Any Ant Member can become a custodian. To submit yourself as a custodian you must have a high level of contribution to the community, this is calculated by Anthill Ranking System (see [Ranking System](ranking-system.md))
+Any Ant Member can become a custodian. To submit yourself as a custodian you must have a high level of contribution to the community, this is calculated by Anthill Ranking System (_see_ [_Ranking System_](ranking-system.md))
 
 The community at the moment has 3 custodians. The number of custodians will grow according to the size of the community. We follow the prime number to decide the numbers of custodians we have. ( 3, 5, 7, 11, 13, 17, 19, 23,... )
 
