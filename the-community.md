@@ -11,10 +11,12 @@ Anyone can join the Anthill, but those that gain the most are those interested i
 We together can adjust and adapt our community to our needs and change everything we want. Implement new mechanisms, add and remove rules. \
 Together we fully control how the Anthill DAO works.&#x20;
 
-## ANTS (MEMBERS)
+## MEMBERS - Ants & Colonies
 
 Anthill is the home for creatives and anyone that want to support creativity.\
 To be an Ant you must believe in the power of contribution. The more you give the more you get.&#x20;
+
+You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read more about colonies here_](colonies.md)__
 
 #### If you belong to one of these categories, Anthill is for you:
 
@@ -28,7 +30,10 @@ To be an Ant you must believe in the power of contribution. The more you give th
 **• Marketing and Communication** \
 ****• **Blockchain Developer**\
 **• Software Engineer, AI, Robotics etc**\
-**• You offer services to creative and in the creative industry (lawyer, accountant, etc)**
+**• You offer services to creative and in the creative industry (lawyer, accountant, etc)**\
+**• Community Manager**\
+**• Intellectual** \
+**• Content Creator**&#x20;
 
 ## VOTING POWER
 
@@ -54,7 +59,7 @@ Some of the memberships are for our **physical space**. These allow access to th
 
 The **online memberships** are for getting specific support and tools, for example, advanced marketing, support and tools and support for finding job opportunities, help with our educational program, extra file storage and more.&#x20;
 
-There are memberships specific for some category of Ants. Those are for accessing specific support and advanced tools for investors and colonies (organisations).
+There are memberships specific for Investors (Ants and Colonies). Those are for accessing support and advanced DeFi (Decentralised FIance) tools.
 
 **We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our universal basic income rewarded for the members' activities.**\
 ****\

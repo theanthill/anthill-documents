@@ -24,3 +24,7 @@ Get together to create, collaborate, and explore new ideas. We are designing our
 ## EDUCATION
 
 Practice-based Learning & Practice-led Research. When using the platform, evidence of your work gets collected. According to your level of professional expertise (Skills), you can receive a qualification up to PhD level, for a fifth of the price.
+
+## METAVERSE
+
+Anthill Metaverse is a 3D virtual world at the disposal of Anthill members to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything we want. [_Read more here_](anthill-ecosystem.md#metaverse)__
