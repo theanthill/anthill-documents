@@ -61,6 +61,19 @@ The **online memberships** are for getting specific support and tools, for examp
 
 There are memberships specific for Investors (Ants and Colonies). Those are for accessing support and advanced DeFi (Decentralised FIance) tools.
 
-**We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our universal basic income rewarded for the members' activities.**\
-****\
-****
+**We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our universal basic income rewarded for the members' activities.**
+
+## **EARLY ADOPTERS**
+
+You can join Anthill before the launch day. \
+Register yourself on [https://anthill.community/](https://anthill.community) to gain first access.
+
+### **Benefits:**
+
+* Get First Access to Anthill. (Be the coolest kid on Earth)
+* Participate in our Lottery. With $10,000 worth of tokens and coupons.
+* Start [Ranking](ranking-system.md) up before everyone else (more voting power and passive income).&#x20;
+* Receive the rarest and coolest early adopter NFT.
+* [Colonies](colonies.md) can get their Colony Name for free.
+* Get a plot of Anthill [Metaverse](metaverse.md) land.
+* Make Anthill look like you! Contribute and participate in the development and promotion of the Anthill Community.\
