@@ -15,4 +15,4 @@ The Anthill is a multi-token protocol that consists of three main tokens and a t
 * **ANT Bonds (ANTB):** which can be purchased at a 1:1 rate when the network is in contraction and can be redeemed with a premium for ANT TOKEN when the network returns to its inflationary state, above the target price. With the ANTB, it's possible to mint super rare NFTs, and holders have increased voting power when the network is in contraction.
 * **ANT Contract (ANTC)**: this is a long term staking token that gains an additional 5% per year on top of the 10% that the ANTT gains.
 
-![Clock to Enlarge](<.gitbook/assets/Anthill Protocole.png>)
+![](<.gitbook/assets/Anthill Protocole.png>)
