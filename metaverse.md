@@ -23,18 +23,16 @@ Land plot NFTs are minted by Anthill Treasury. The Ant Tokens earned from the se
 
 ## **Land Distribution\***
 
-There are 1,000,000 pre-minted plots of land and are distributed in this way:
+There are **1,000,000 pre-minted plots of land** and are distributed in this way:
 
-• 30% owned by Anthill Community (not for sale)
+* 30% owned by Anthill Community (not for sale)
+* 64% on sale via the auction (three-year running sale)
+* 3% goes to Anthill HQ Limited
+* 1% get distributed to Colonies and Members that join the Anthill before the launch day.
+* 1.5% get distributed as a reward to the liquidity providers that provide liquidity before the launch day and lock their LP token for 6 months.
+* 0.5% goes to the Ants that participated in the MVP (experimental phase)
+* an estimated 1% per year of new-minted micro plots are created as a reward given to Ants that complete our [educational system](education.md) (dynamic inflation capped at 2% per year)
 
-• 64% on sale via the auction (three-year running sale)
 
-• 3% goes to Anthill HQ Limited
-
-• 1% get distributed to Colonies and Members that join the Anthill before the launch day.
-
-• 1.5% get distributed as a reward to the liquidity providers that provide liquidity before the launch day and lock their LP token for 6 months.
-
-• 0.5% goes to the Ants that participated in the MVP (experimental phase)
 
 _<mark style="color:green;">\*those numbers are a reference of intention. Final numbers will be released before the launch day.</mark>_&#x20;
