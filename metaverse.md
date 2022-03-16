@@ -8,20 +8,27 @@ Anthill Metaverse is a gamified virtual and augmented reality environment with a
 
 A virtual world at the disposal of Anthill Members and Ant Colonies to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything they dream of.&#x20;
 
+## THE LAND
+
 Ants and Colonies may purchase, from Anthill Community, **virtual plots of land as NFTs** and run their own activities on it. Plots can be traded or rented out to others.
 
 **Part of the Metaverse's land is reserved for communal use via our Working Proposal System. This part of the land is owned by Anthill Community and will never be sold.**&#x20;
 
-There is a limited amount of land plots available in the Metaverse for sale, they can be purchased from Anthill on [Opensea](https://opensea.io). Every month for a three-year period, several plots of land are on sale until all the plots are sold.&#x20;
+**There is a limited amount of land plots available in the Metaverse for sale**, they can be purchased from Anthill on [Opensea](https://opensea.io). Every month for a three-year period, several plots of land go on sale until all the plots are sold.&#x20;
 
-The only way to mint (create) new plots of land is through our Edu System. Every member that gets a certified qualification through our [educational system](education.md), from level 1 to PhD, is rewarded with a plot of land.\
-The size of the plot is in proportion to the qualification level and the market value of the land. &#x20;
+## MINT NEW LAND WITH YOUR NEW QUALIFICATION
+
+The only way to mint (create) new plots of land is through our Edu System. Every member that gets a certified qualification through our [educational system](education.md), from level 1 to PhD, is rewarded with a plot of land or a portion of it.\
+The percentage of the plot is in proportion to the qualification level and the market value of the land. The aim here is to repay the cost of the qualification and a bit more.
 
 **Investors could finance students in exchange for the newly minted land or for part of it.**
 
-**Land-Plot NFTs** are minted by Anthill Treasury. The Ant Tokens earned from the selling of the plots get burned (destroyed). This is the best way to contribute financially as the destruction of ANTT creates scarcity in the market supply, this pushes the value of the ANTT up.
+## **LAND-PLOT NFTs**
 
-## **Land Distribution\***
+**Land-Plot NFTs** are minted by **Anthill Community Treasury**. The Ant Tokens earned from the selling of the plots get burned (destroyed) or used to buy digital assets (Bitcoin etc.) according to the need of the [**Token Economy Algorithm**](token-economy.md). \
+_This is the best way to contribute financially as the destruction of ANTT creates scarcity in the market supply, this pushes the value of the ANTT up while holding digital assets in the treasury stabilise the value of the ANTT._
+
+## **LAND DISTRIBUTION\***
 
 There are **1,000,000 pre-minted plots of land** and are distributed in this way:
 
