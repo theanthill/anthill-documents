@@ -8,7 +8,7 @@ Anthill has partnered with [CLOCK](https://clockyourskills.com) to support your 
 CLOCK is a ground-breaking programme designed for people who learn and develop their skills through creative and professional work. \
 Internationally recognised qualification up to PhD level at 1/3 of the price.
 
-Thanks to Anthill [Token Economy](token-economy.md) and [Metaverse](metaverse.md), qualification costs can be recovered or/and financed. Learning is Earning.
+Thanks to Anthill [Token Economy](token-economy.md) and [Metaverse](metaverse.md), qualification costs can be recovered or/and financed. On Anthill Learning is Earning.
 
 ## What is CLOCK?
 
