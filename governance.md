@@ -12,3 +12,10 @@ _Blockchain and smart contracts are governance technologies that have the potent
 
 We achieve consensus by voting. Our voting power is connected to our individual rank. Our [Ranking System](ranking-system.md) measures members' contribution to the community.
 
+## REFERENDUM, CUSTODIANS AND TECH COMMITTEE
+
+Anthill members can submit proposals, for example on how to improve and evolve Anthill, or to finance a specific project, a festival, a movie etc. Other members can vote up for these proposals and once the quorum is reached the proposals go to Public Referenda
+
+The Technical Committee and the Custodians (elected by the community) validate the proposal and if in line with Anthill Community Constitution, they make the required changes.&#x20;
+
+![click to enlarge](<.gitbook/assets/Anthill Governance.png>)
