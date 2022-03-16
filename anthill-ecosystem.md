@@ -10,7 +10,7 @@ You now have your very own online storefront where you can sell your services, p
 
 ## UNIVERSAL BASIC INCOME (UBI)
 
-You receive a Universal Basic Income in proportion to your contribution to the community (participation, engagement, content, governance etc) (see [Ranking System](ranking-system.md)). \
+You receive a Universal Basic Income in proportion to your contribution to the community (participation, engagement, content, governance etc) (_see_ [_Ranking System_](ranking-system.md)). \
 The more active you are, the more you Earn.
 
 ## AGENCY
