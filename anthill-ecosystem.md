@@ -10,8 +10,7 @@ You now have your very own online storefront where you can sell your services, p
 
 ## UNIVERSAL BASIC INCOME (UBI)
 
-You receive a Universal Basic Income in proportion to your contribution to the community (participation, engagement, content, governance etc) (_see_ [_Ranking System_](ranking-system.md)). \
-The more active you are, the more you Earn.
+Anthill gives you a Universal Basic Income in proportion to your participation on the platform (engage, invest, stake, create content, govern). The more you contribute, the more you Earn. (_see_ [_Ranking System_](ranking-system.md)).&#x20;
 
 ## AGENCY
 
