@@ -8,7 +8,7 @@ description: >-
 
 Anthill Team designs the Anthill Protocol. The protocol is an innovative solution that can adjust its supply deterministically to move the token price in the direction of a target price.
 
-The Anthill is a multi-token protocol that consists of three main tokens and a time-locked contract token:
+Anthill has a multi-token protocol that consists of three main tokens and a time-locked contract token:
 
 * **ANT Token (ANTT):** the algorithmic stablecoin that gains 10% of its value a year.
 * **ANT Shares (ANTS):** 90% held by the Community Treasury and 10% by the Anthill HQ. ANTS allow claiming ANTT inflation when the network expands
