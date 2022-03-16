@@ -37,4 +37,4 @@ There are 1,000,000 pre-minted plots of land and are distributed in this way:
 
 • 0.5% goes to the Ants that participated in the MVP (experimental phase)
 
-_<mark style="color:green;">\*those numbers are as a reference of intention. Final numbers will be released before the launch day.</mark>_&#x20;
+_<mark style="color:green;">\*those numbers are a reference of intention. Final numbers will be released before the launch day.</mark>_&#x20;
