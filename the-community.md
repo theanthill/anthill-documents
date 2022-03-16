@@ -71,8 +71,8 @@ Register yourself on [https://anthill.community/](https://anthill.community) to 
 ### **Benefits:**
 
 * Get First Access to Anthill. (Be the coolest kid on Earth)
-* Participate in our Lottery. With $10,000 worth of tokens and coupons.
-* Start [Ranking](ranking-system.md) up before everyone else (more voting power and passive income).&#x20;
+* Free Lottery Tickets. With $10,000 worth of tokens and coupons.
+* Start [Ranking](ranking-system.md) up before everyone else. Get the early adopter achievement and get more voting power and passive income.&#x20;
 * Receive the rarest and coolest early adopter NFT.
 * [Colonies](colonies.md) can get their Colony Name for free.
 * Get a plot of Anthill [Metaverse](metaverse.md) land.
