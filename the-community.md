@@ -39,7 +39,7 @@ You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read m
 
 Our **voting power** is connected to the contribution we give to the community. \
 The more we contribute the more voting power we have. Doesn’t matter how famous you are, how rich you are or well connected you are. Doesn’t matter where you come from, your ethnicity, your gender or sexuality. \
-Nothing matters apart from your contribution to making the collective intelligence grow. Create, innovate, contribute, help, facilitate, support, do the art you love and the Anthill will reward you for your contribution. ([read about Anthill Governance System here](governance.md))
+Nothing matters apart from your contribution to making the community and the collective intelligence grow. Create, innovate, contribute, help, facilitate, support, do the art you love and the Anthill will reward you for your contribution. ([read about Anthill Governance System here](governance.md))
 
 ## CUSTODIANS
 
