@@ -9,6 +9,7 @@
 * [Metaverse](metaverse.md)
 * [Education](education.md)
 * [Ranking System](ranking-system.md)
+* [Governance](governance.md)
 * [Token Economy](token-economy.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
 
