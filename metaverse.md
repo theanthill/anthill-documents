@@ -1,10 +1,10 @@
 ---
-description: Gamified Virtual Environment
+description: Gamified Virtual and Augmented Reality Environment
 ---
 
 # Metaverse
 
-Anthill Metaverse is a gamified virtual environment with a token economy that keeps bringing benefits to the community.
+Anthill Metaverse is a gamified virtual and augmented reality environment with a token economy that keeps bringing benefits to the community.
 
 A virtual world at the disposal of Anthill Members and Ant Colonies to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything they dream of.&#x20;
 
