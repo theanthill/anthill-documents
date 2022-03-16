@@ -8,7 +8,7 @@ Anthill Metaverse is a gamified virtual and augmented reality environment with a
 
 A virtual world at the disposal of Anthill Members and Ant Colonies to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything they dream of.&#x20;
 
-Ants and Colonies may purchase from Anthill Community, v**irtual plots of land as NFTs** and run their own activities on it. Plots can also be traded or rented out.
+Ants and Colonies may purchase from Anthill Community, **virtual plots of land as NFTs** and run their own activities on it. Plots can also be traded or rented out.
 
 **Part of the Metaverse's land is reserved for communal use and is owned by Anthill Community and will never be sold.**&#x20;
 
