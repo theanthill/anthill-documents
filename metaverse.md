@@ -14,7 +14,7 @@ Ants and Colonies may purchase from Anthill Community, **virtual plots of land a
 
 There is a limited amount of land plots available in the Metaverse for sale, they can be purchased at Anthill Auction House. Every month for one-year several plots of land are on sale until all the plots are sold.&#x20;
 
-After this period the only way to mint (create) new plots of land is through our Edu System. Every member that gets a certified qualification through our educational system (_powered by_ [_Clock Your Skills_](https://clockyourskills.com)_)_, from level 1 to PhD, is rewarded with a plot of land.\
+After this period the only way to mint (create) new plots of land is through our Edu System. Every member that gets a certified qualification through our [educational system](education.md), from level 1 to PhD, is rewarded with a plot of land.\
 The size of the plot is in proportion to the qualification level and the market value. &#x20;
 
 **Investors could finance students in exchange for the newly minted land or for part of it.**
