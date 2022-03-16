@@ -8,6 +8,7 @@
 * [Colonies](colonies.md)
 * [Metaverse](metaverse.md)
 * [Ranking System](ranking-system.md)
+* [Education](education.md)
 * [Token Economy](token-economy.md)
 * [The Anthill Protocol](the-anthill-protocol.md)
 
