@@ -22,4 +22,4 @@ The Ant Token gains value over time, thanks to our **algorithm** the **Ant Token
 
 ### <mark style="background-color:orange;">**The ANT TOKEN ($ANTT) can be swapped/exchanged for traditional money at any time.**</mark>&#x20;
 
-Thanks to our [Token Economy](token-economy.md), Anthill, rewards its members with a Universal Basic Income (UBI), paid daily and in proportion to our contribution ([Ranking System](ranking-system.md)).  Every action is rewarded.
+Thanks to our [Token Economy](token-economy.md), Anthill, rewards its members with a Universal Basic Income (UBI), paid daily and in proportion to our contribution [Ranking System](ranking-system.md).  Every action is rewarded.
