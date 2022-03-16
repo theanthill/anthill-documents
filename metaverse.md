@@ -25,8 +25,7 @@ The percentage of the plot is in proportion to the qualification level and the m
 
 ## **LAND-PLOT NFTs**
 
-**Land-Plot NFTs** are minted by **Anthill Community Treasury**. The Ant Tokens earned from the selling of the plots get burned (destroyed) or used to buy digital assets (Bitcoin etc.) according to the need of the [**Token Economy Algorithm**](token-economy.md). \
-
+**Land-Plot NFTs** are minted by **Anthill Community Treasury**. The Ant Tokens earned from the selling of the plots get burned (destroyed) or used to buy digital assets (Bitcoin etc.) according to the need of the [**Token Economy Algorithm**](token-economy.md).&#x20;
 
 _This is the best way to contribute financially as the destruction of ANTT creates scarcity in the market supply, this pushes the value of the ANTT up while holding digital assets in the treasury stabilise the value of the ANTT._
 
