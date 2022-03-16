@@ -35,3 +35,8 @@ Anthill helps members to monetise their content. This is a paid service that pus
 ## COMMUNITY PROJECTS
 
 Anthill can allocate budgets to finance community projects. Ants and Colonies can submit proposals and get their project financed. From a festival to a movie, to mental health support. Thanks to our [governance](governance.md) we can achieve consensus and finance our dreams.
+
+## BOUNTIES
+
+A bounty is a deal offered by Anthill to its members to work on a specific project that benefits the community. \
+Members and [Colonies](colonies.md) can receive recognition and compensation for their work.&#x20;
