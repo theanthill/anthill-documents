@@ -14,8 +14,10 @@ We achieve consensus by voting. Our voting power is connected to our individual 
 
 ## REFERENDUM, CUSTODIANS AND TECH COMMITTEE
 
-Anthill members can submit proposals, for example on how to improve and evolve Anthill, or to finance a specific project, a festival, a movie etc. Other members can vote up for these proposals and once the quorum is reached the proposals go to Public Referenda
+**Anthill members** (token holders) can submit proposals, for example on how to improve and evolve Anthill, or to finance a specific project, a festival, a movie etc. Other members can vote for these proposals and once the quorum is reached the proposals go to Public Referenda, where the community can vote.
 
-The Technical Committee and the Custodians (elected by the community) validate the proposal and if in line with Anthill Community Constitution, they make the required changes.&#x20;
+The **Custodians** (elected by the community) validate the proposal and if in line with Anthill Community Constitution, they make the required changes.&#x20;
+
+The **Technical Committee** (elected by the community) check the proposal if is technically doable, check for vulnerabilities and doesn't bring risks to the existing code.
 
 ![click to enlarge](<.gitbook/assets/Anthill Governance.png>)
