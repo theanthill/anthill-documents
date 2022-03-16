@@ -45,3 +45,8 @@ There are **1,000,000 pre-minted plots of land** and are distributed in this way
 * an estimated 1% per year of new-minted plots are created as a reward given to Ants that complete our [educational system](education.md) (dynamic inflation capped at 2% per year)
 
 _<mark style="color:green;">\*those numbers are a reference of intention. Final numbers will be released before the launch day.</mark>_&#x20;
+
+## VIRTUAL ASSETS & SERVICES
+
+Ant Members can create and profit from the sale/rent of digital assets for the Metaverse as well as offer services related to the development of activities in the Metaverse. \
+Hire a few bands and organise the biggest virtual festival ever. Or place an augmented reality stage at [**Glastonbury Festival**](https://www.glastonburyfestivals.co.uk) **** and have bands in the Metaverse perform on it**.**
