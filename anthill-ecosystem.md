@@ -31,3 +31,7 @@ Anthill Metaverse is a 3D virtual world at the disposal of Anthill members to do
 ## CONTENT __ MONETIZATION SYSTEM
 
 Anthill helps members to monetise their content. This is a paid service that pushes content over different platforms and use Anthill's network and connections to bring value to members. Anthill Treasury gets between 10% to 20% of the earnings. Bringing in this way value back to the entire community.
+
+## COMMUNITY PROJECTS
+
+Anthill can allocate budgets to finance community projects. Ants and Colonies can submit proposals and get their project financed. From a festival to a movie, to mental health support. Thanks to our [governance](governance.md) we can achieve consensus and finance our dreams.
