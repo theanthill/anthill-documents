@@ -27,3 +27,7 @@ Practice-based Learning & Practice-led Research. When using the platform, eviden
 ## METAVERSE
 
 Anthill Metaverse is a 3D virtual world at the disposal of Anthill members to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything we want. [_Read more here_](metaverse.md)__
+
+## ANTHILL CONTENT __ MONETIZATION SYSTEM
+
+Anthill helps members to monetise their content. This is a paid service that pushes content over different platforms and use Anthill's network and connections to bring value to members. Anthill Treasury gets between 10% to 20% of the earnings. Bringing in this way value back to the entire community.
