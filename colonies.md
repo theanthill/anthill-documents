@@ -5,7 +5,7 @@ description: Organisations, Groups etc can join Anthill with their own identitie
 # Colonies
 
 Colonies are groups formed by people or organisations around a common interest. On Anthill we could have a colony for photographers, for the London Photographers and so on, similar to Groups we have on Facebook. But we can also have the [Musician Union](https://musiciansunion.org.uk) (UK) and [Clock Your Skills](https://clockyourskills.com) as a colony. \
-Having a colony is the best way to keep your Organisation's Identity within the Anthill Community.
+Having a colony is the best way to keep your Organisation's Identity within the Anthill Community while giving your members access to [Anthill Ecosystem](anthill-ecosystem.md).
 
 ### **Colony are:**&#x20;
 
