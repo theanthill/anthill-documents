@@ -24,5 +24,7 @@ At the heart of CLOCK sit four skill sets, across and within which you will demo
 
 • **Developing Social Potential:** Social and community activities that include and engage people, develop personal and professional capabilities, support mental and physical wellbeing, and build emotional intelligence and cross-cultural competence.
 
+## **CLOCK Boot Camp (optional)**
 
+People who do CLOCK describe the CLOCK boot camp experience as transformative. Your practical, experiential, and nonformal learning is recognised and validated as we benchmark the skills and knowledge (across the skill sets outlined earlier) that you apply in your professional work, roles, and projects to specific industry and qualification levels.&#x20;
 
