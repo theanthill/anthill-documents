@@ -25,7 +25,7 @@ You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read m
 • **Creative** **Mind**\
 • **You Work in the Creative Industry**\
 • **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
-• **A fun, a lover for arts and creativity, an art collector etc.**\
+• **A fan, a lover for arts and creativity, an art collector etc.**\
 ****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
 **• Marketing and Communication** \
 ****• **Blockchain Developer**\
