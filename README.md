@@ -16,7 +16,11 @@ Welcome to the contribution economy.
 
 Anthill is a collective identity. A form of intelligence.\
 \
-Website: [https://anthill.community/](https://anthill.community)
+Website: [https://anthill.community/](https://anthill.community)\
+Discord: [https://discord.gg/pv2RZk9UGc](https://discord.gg/pv2RZk9UGc)\
+Instagram: [https://www.instagram.com/wetheanthill/](https://www.instagram.com/wetheanthill/)\
+Twitter: [https://twitter.com/wetheanthill](https://twitter.com/wetheanthill)\
+Facebook: [https://www.facebook.com/wetheanthill](https://www.facebook.com/wetheanthill)
 
 ## **Collective Intelligence**
 
