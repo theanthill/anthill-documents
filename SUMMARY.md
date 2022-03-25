@@ -18,7 +18,7 @@
 
 * [Tokens](protocol/tokens.md)
 * [Platform](protocol/platform.md)
-* [Tech Roadmap](protocol/roadmap.md)
+* [Roadmap](protocol/roadmap.md)
 
 ## Mechanisms
 
