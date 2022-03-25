@@ -25,7 +25,7 @@ You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read m
 • **Creative** **Mind**\
 • **You Work in the Creative Industry**\
 • **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
-• **A fan, a lover for arts and creativity, an art collector etc.**\
+• **A fan, a lover of arts and creativity, an art collector etc.**\
 ****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
 **• Marketing and Communication** \
 ****• **Blockchain Developer**\
@@ -35,19 +35,37 @@ You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read m
 **• Intellectual** \
 **• Content Creator**&#x20;
 
+## **EARLY ADOPTERS**
+
+You can join Anthill before the launch day. \
+Register yourself on [https://anthill.community/](https://anthill.community) to gain first access.
+
+### **Benefits:**
+
+* Get First Access to Anthill. (Be the coolest kid on Earth)
+* Free Lottery Tickets. With $10,000 worth of tokens and coupons.
+* Start [Ranking](ranking-system.md) up before everyone else. Earn the early adopter achievement and get more voting power and passive income.&#x20;
+* Receive the rarest and coolest early adopter NFT.
+* [Colonies](colonies.md) can get their Colony Name for free.
+* Get a plot of Anthill [Metaverse](metaverse.md) land.
+* Make Anthill look like you! Contribute and participate in the development and promotion of the Anthill Community.
+
+## AMBASSADORS
+
+Community Ambassadors will work closely with the Anthill Core Team. Their role is to support and enable the community to become more active more often. The main task of an Ambassador is engaging with communities and, through your interests, allowing the individuals to join you at your and Anthull activities by
+
+* Lead or coordinate activities and sessions within the community for others to be active
+* Help others to improve their ranking with activity
+* Be a positive influencer within the community
+* Be the voice of your circle – help Anthill better understand local issues
+* Be a representative on Anthill Community locally
+* Promoting Anthill and the opportunities present in the community
+
 ## VOTING POWER
 
 Our **voting power** is connected to the contribution we give to the community. \
 The more we contribute the more voting power we have. Doesn’t matter how famous you are, how rich you are or well connected you are. Doesn’t matter where you come from, your ethnicity, your gender or sexuality. \
 Nothing matters apart from your contribution to making the community and the collective intelligence grow. Create, innovate, contribute, help, facilitate, support, do the art you love and the Anthill will reward you for your contribution. ([read about Anthill Governance System here](governance.md))
-
-## CUSTODIANS
-
-Custodians are voted by the community, they are community members whose role is to update the code and manage the day by day activities of the community.
-
-Any Ant Member can become a custodian. To submit yourself as a custodian you must have a high level of contribution to the community, this is calculated by Anthill Ranking System (_see_ [_Ranking System_](ranking-system.md))
-
-The community at the moment has 3 custodians. The number of custodians will grow according to the size of the community. We follow the prime number to decide the numbers of custodians we have. ( 3, 5, 7, 11, 13, 17, 19, 23,... )
 
 ## **MEMBERSHIP**
 
@@ -63,17 +81,12 @@ There are memberships specific for Investors (Ants and Colonies). Those are for 
 
 **We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our universal basic income rewarded for the members' activities.**
 
-## **EARLY ADOPTERS**
+## CUSTODIANS
 
-You can join Anthill before the launch day. \
-Register yourself on [https://anthill.community/](https://anthill.community) to gain first access.
+Custodians are voted by the community, they are community members whose role is to update the code and manage the day by day activities of the community.
 
-### **Benefits:**
+Any Ant Member can become a custodian. To submit yourself as a custodian you must have a high level of contribution to the community, this is calculated by Anthill Ranking System (_see_ [_Ranking System_](ranking-system.md))
 
-* Get First Access to Anthill. (Be the coolest kid on Earth)
-* Free Lottery Tickets. With $10,000 worth of tokens and coupons.
-* Start [Ranking](ranking-system.md) up before everyone else. Earn the early adopter achievement and get more voting power and passive income.&#x20;
-* Receive the rarest and coolest early adopter NFT.
-* [Colonies](colonies.md) can get their Colony Name for free.
-* Get a plot of Anthill [Metaverse](metaverse.md) land.
-* Make Anthill look like you! Contribute and participate in the development and promotion of the Anthill Community.\
+The community at the moment has 3 custodians. The number of custodians will grow according to the size of the community. We follow the prime number to decide the numbers of custodians we have. ( 3, 5, 7, 11, 13, 17, 19, 23,... )
+
+## &#x20;
