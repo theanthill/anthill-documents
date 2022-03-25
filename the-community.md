@@ -52,7 +52,7 @@ Register yourself on [https://anthill.community/](https://anthill.community) to 
 
 ## AMBASSADORS
 
-Community Ambassadors will work closely with the Anthill Core Team. Their role is to support and enable the community to become more active more often and help with the growth of the community. An ambassador's main task is engaging with potential colonies and people from the creative industry, helping them understand how Anthill can be beneficial for them. To support them in the first few steps and also invite them to join Anthill's activities. You will be responsible for:
+Community Ambassadors will work closely with the Anthill Core Team. Their role is to support and enable the community to become more active more often and help with the community's growth. An ambassador's main task is engaging with potential colonies and people from the creative industry, helping them understand how Anthill can benefit them. To support them in the first few steps and invite them to join Anthill's activities. You will be responsible for:
 
 * Lead or coordinate activities and sessions within the community for others to be active
 * Help others to improve their ranking with activity
