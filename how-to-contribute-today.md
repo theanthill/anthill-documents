@@ -6,6 +6,8 @@ description: each one of us is responsible for the success of Anthill
 
 There are, and there will be, many ways that each one of us can contribute in making Anthill becoming a great and prosperous home for all of us. This page will be kept updated with new ways to contribute. Please keep checking it.
 
+_“The only way to make a new road is to walk it.” - Admiral Katrina Cornwell | Star Trek_
+
 We need to grow the number of Ants in our community for long-term success. We are placing a big focus and effort on inviting minorities and diversity. This is extremely important; please never underestimate this. To achieve the diversity and inclusion we want, each of us needs to put time and attention into removing obstacles that those people have.
 
 Start Ranking up by contributing now.
