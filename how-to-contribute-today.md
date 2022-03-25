@@ -2,7 +2,7 @@
 description: each one of us is responsible for the success of Anthill
 ---
 
-# How to contribute today
+# How to Contribute Today
 
 There are, and there will be, many ways that each one of us can contribute in making Anthill becoming a great and prosperous home for all of us. This page will be kept updated with new ways to contribute. Please keep checking it.
 
@@ -13,7 +13,7 @@ Start Ranking up by contributing now.
 ## Call of Action:&#x20;
 
 * Share [Anthill website](https://anthill.community) with your fellow creatives and explain what we do.&#x20;
-* Invite them to join the queue to be the first to join Anthill the day we launch. (sign up)&#x20;
+* Invite them to join the queue to be the first to join Anthill the day we launch. ([sign up](https://anthill.community))&#x20;
 * Become an Anthill Ambassador, be a point of reference in your circle.&#x20;
 * If you or if you know anyone that could help Anthill with the app development, investment, social media management and content creators, writing articles for the blog, helping with the gamification of the platform. Please get in touch and make the introduction.&#x20;
 * This is for NFT designers. We will reward our early adopters with some limited edition NFTs. We are looking for high profile visual artists that would like to contribute and create a few collections.&#x20;
