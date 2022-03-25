@@ -24,10 +24,6 @@ Get together to create, collaborate, and explore new ideas. We are designing our
 
 Practice-based Learning & Practice-led Research. When using the platform, evidence of your work gets collected. According to your level of professional expertise (Skills), you can receive a qualification up to PhD level, for a fifth of the price. [_Read more here_](education.md)__
 
-## METAVERSE
-
-Anthill Metaverse is a 3D virtual world at the disposal of Anthill members to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything we want. [_Read more here_](metaverse.md)__
-
 ## CONTENT __ MONETIZATION SYSTEM
 
 Anthill helps members to monetise their content. This is a paid service that pushes content over different platforms and use Anthill's network and connections to bring value to members. Anthill Treasury gets between 10% to 20% of the earnings. Bringing in this way value back to the entire community.
@@ -40,3 +36,9 @@ Anthill can allocate budgets to finance community projects. Ants and Colonies ca
 
 A bounty is a deal offered by Anthill to its members to work on a specific project that benefits the community. \
 Members and [Colonies](colonies.md) can receive recognition and compensation for their work.&#x20;
+
+## METAVERSE
+
+Anthill Metaverse is a 3D virtual world at the disposal of Anthill members to do anything they like, from events to games, to exhibitions, live music, schools, parties... anything we want. [_Read more here_](metaverse.md)__
+
+##
