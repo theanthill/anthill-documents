@@ -10,6 +10,7 @@
 * [Education](education.md)
 * [Ranking System](ranking-system.md)
 * [Governance](governance.md)
+* [How to contribute](how-to-contribute.md)
 * [Token Economy](token-economy.md)
 * [Anthill Protocol](the-anthill-protocol.md)
 
