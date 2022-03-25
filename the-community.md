@@ -61,6 +61,8 @@ Community Ambassadors will work closely with the Anthill Core Team. Their role i
 * Be a representative on Anthill Community locally
 * Promoting Anthill and the opportunities present in the community
 
+Interested to become an Ambassador? Come and talk to us on [Discord](https://discord.gg/pv2RZk9UGc).&#x20;
+
 ## VOTING POWER
 
 Our **voting power** is connected to the contribution we give to the community. \
