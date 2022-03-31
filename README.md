@@ -17,7 +17,7 @@ Welcome to the contribution economy.
 Anthill is a collective identity. A form of intelligence.\
 \
 Website: [https://anthill.community/](https://anthill.community)\
-Discord: [https://discord.gg/pv2RZk9UGc](https://discord.gg/pv2RZk9UGc)\
+Discord: [https://discord.gg/pv2RZk9UGc](https://discord.gg/pv2RZk9UGc) << best way to get in touch with the custodians\
 Instagram: [https://www.instagram.com/wetheanthill/](https://www.instagram.com/wetheanthill/)\
 Twitter: [https://twitter.com/wetheanthill](https://twitter.com/wetheanthill)\
 Facebook: [https://www.facebook.com/wetheanthill](https://www.facebook.com/wetheanthill)
@@ -27,9 +27,9 @@ Facebook: [https://www.facebook.com/wetheanthill](https://www.facebook.com/wethe
 Anthill believes in collective intelligence and the importance of collaboration. Sharing and remixing ideas is what is needed to achieve greater art and innovation.&#x20;
 
 True intelligence is collective intelligence, one that does not just follow pure logic and rationality but one that has the courage to also explore feelings and emotions. \
-Intelligence is more significant when it can have inputs from many sources and have different realities from where to gain insights.
+Intelligence is more significant when it can have inputs from many sources and have different realities from which to gain insights.
 
-This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Using our different senses, experiences, emotions and interpretations of our realities allow us to achieve higher level of understanding, to see and understand what we couldn't do from one single perspective.&#x20;
+This is only achievable by utilising our human diversities as the essential elements of our collective intelligence. Using our different senses, experiences, emotions and interpretations of our realities allows us to achieve a higher level of understanding, to see and understand what we couldn't do from one single perspective.&#x20;
 
 **On Anthill the voices from minorities get loud and their contribution is honoured.**
 
