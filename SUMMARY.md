@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Anthill Community](README.md)
+* [Manifesto](manifesto.md)
 * [Anthill Ecosystem](anthill-ecosystem.md)
 * [The Community](the-community.md)
 * [The New Economy](the-new-economy.md)
