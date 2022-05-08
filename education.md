@@ -8,13 +8,15 @@ Anthill has partnered with [CLOCK](https://clockyourskills.com) to support your 
 CLOCK is a ground-breaking programme designed for people who learn and develop their skills through creative and professional work. \
 Internationally recognised qualification up to PhD level at 1/3 of the price.
 
-Thanks to Anthill [Token Economy](token-economy.md) and [Metaverse](metaverse.md), qualification costs can be recovered or/and financed.\
+And not thanks to the Anthill [Token Economy](token-economy.md) and [Metaverse](metaverse.md),  costs can be recovered and/or financed.\
+\
 On Anthill, Learning is Earning.
 
 ## What is CLOCK?
 
-CLOCK, or ‘Collective Learning Open Curriculum Kit’, is a collective approach to learning and development. CLOCK uses a broad or open curriculum interpreted and highly contextualised by a CLOCK qualified Sector Expert who works in one or more sectors of the creative industries. \
-The CLOCK programme uses Anthill Platform to support the validation and recognition of learning in nonformal, work, practice-based, and experiential contexts and is delivered through a peer mentoring process.
+CLOCK, or ‘Collective Learning Open Curriculum Kit’, is a collective approach to learning and development. CLOCK uses a broad or open curriculum interpreted and highly contextualised by a CLOCK qualified Sector Expert who works in one or more sectors of the creative industries.&#x20;
+
+The CLOCK programme uses Anthill Platform to support the validation and recognition of learning in non-formal, work, practice-based, and experiential contexts and is delivered through a peer mentoring process.
 
 ## CLOCK Skill Sets
 

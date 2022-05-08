@@ -16,13 +16,13 @@ When the value of the ANTT is lower than the target price, the algorithm needs t
 
 90% goes to Anthill Community Treasury, and 10% goes to **Anthill HQ**. (The UK limited company in charge to develop Anthill Community). The Anthill HQ spends these new tokens on financing new developments.
 
-### **The 90% of ANTT that goes in the Community Treasury are utilised for:**
+### **The 90% of ANTT that goes into the Community Treasury is utilised for:**
 
 • Paying Rewards to community members (incentives).
 
 • Investing in Community Projects (Working Proposals).
 
-• Our UBI (Universal Basic Income) is paid to members.
+• Our UCI (Universal Contribution Income) is paid to members.
 
 • Participating in the ANTT/UST and ANT/MATIC Liquidity Pool
 

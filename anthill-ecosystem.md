@@ -8,9 +8,9 @@ Build your profile and upload your portfolio, connect and collaborate with other
 
 You now have your very own online storefront where you can sell your services, products and NFTs. You can also buy and share your favourite pieces from fellow Anthill members.
 
-## UNIVERSAL BASIC INCOME (UBI)
+## UNIVERSAL CONTRIBUTION INCOME (UCI)
 
-Anthill gives you a Universal Basic Income in proportion to your participation on the platform (engage, invest, stake, create content, govern). The more you contribute, the more you Earn. (_see_ [_Ranking System_](ranking-system.md)).&#x20;
+Anthill gives you a Universal Contribution Income in proportion to your participation on the platform (engage, invest, stake, create content, govern). The more you contribute, the more you Earn. (_see_ [_Ranking System_](ranking-system.md)).&#x20;
 
 ## AGENCY
 

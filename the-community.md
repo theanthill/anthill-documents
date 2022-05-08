@@ -81,7 +81,7 @@ The **online memberships** are for getting specific support and tools, for examp
 
 There are memberships specific for Investors (Ants and Colonies). Those are for accessing support and advanced DeFi (Decentralised FIance) tools.
 
-**We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our universal basic income rewarded for the members' activities.**
+**We believe in financial inclusion. Anthill memberships will be affordable and easily covered by our Universal Contribution Income rewarded for the members' activities.**
 
 ## CUSTODIANS
 
