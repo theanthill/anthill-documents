@@ -1,10 +1,10 @@
 # Roadmap
 
-Starting at the beginning of 2021 The Anthill Team has been busy setting up the foundations of the project. The Roadmap for 2022 focuses on growing the Anthill Community and the Anthill Protocol ecosystem, thus giving the Ant Token Economy strong use cases and a utility for the ANTT Token that will sustain its value.
+Starting at the beginning of 2021 Anthill Team has been busy setting up the foundations of the project. The Roadmap for 2022 focuses on growing the Anthill Community and Anthill Protocol ecosystem, thus giving the Ant Token Economy strong use cases and a utility for the ANTT Token that will sustain its value.
 
 **Completed**
 
-* The Anthill Community Website \*\*\*\*v1.0 [https://anthill.community/](https://anthill.community)
+* Anthill Community Website \*\*\*\*v1.0 [https://anthill.community/](https://anthill.community)
 * First ANT Token transaction on the Blockchain
 * MVP with 150 Ants joined the community!
 * Social Media presence
@@ -14,15 +14,15 @@ Starting at the beginning of 2021 The Anthill Team has been busy setting up the 
 
 **In progress**
 
-* The Anthill Protocol Beta Test: Proof of concept of the Anthill Tokenomics
-* First Anthill Colony: physical space in London for the Anthill members to gather, co-work, and share. With built-in Studios for photography, music productions, etc...
+* Anthill Protocol Beta Test: Proof of concept of Anthill Tokenomics
+* First Anthill Colony: physical space in London for Anthill members to gather, co-work, and share. With built-in Studios for photography, music productions, etc...
 * Search for investment:
   * Pitch Deck
   * Anthill Documentation (these pages)
 
 **Future Development**
 
-* The Anthill Community Website 2.0
+* Anthill Community Website 2.0
   * Gamification of participation: Ants will earn ANTT Tokens and Ranking based on their engagement
   * Governance: The Ants Rank will give each member decision power on the Community's future, including the Token Economy.
 * The Anthill Marketplace: Storefront for the Ants and the Community to offer their products and services

@@ -8,13 +8,13 @@ The Success of the Anthill Community is connected to the success of the Ant Toke
 
 At every moment, the algorithm calculates the target price of the ANTT and decides if it needs to contract or expand the liquidity of the ANTT in the market (Liquidity Pool).
 
-When the value of the ANTT is higher than the target price, the algorithm needs to expand the liquidity and, therefore, MINT new tokens (_In cryptocurrency, minting is a decentralized method that enables the_ algorithm _to generate a new token_).
+When the value of the ANTT is higher than the target price, the algorithm needs to expand the liquidity and, therefore, MINT new tokens (_In cryptocurrency, minting is a decentralised method that enables the_ algorithm _to generate a new token_).
 
-When the value of the ANTT is lower than the target price, the algorithm needs to contract and create scarcity in the Liquidity Pool. This is done by rewarding the liquidity providers with incentives to remove ANTT from the liquidity pool (ANTB and ANTC) and the lower value is an incentive itself for purchasing ANTT at a discount.
+When the value of the ANTT is lower than the target price, the algorithm needs to create scarcity of the ANTT in the Liquidity Pool. We reward liquidity providers with incentives to remove ANTT from the liquidity pool and purchase our ANTB and ANTC tokens.
 
 ## New-minted tokens distribution&#x20;
 
-90% goes to Anthill Community Treasury, and 10% goes to **Anthill HQ**. (The UK limited company in charge to develop Anthill Community). The Anthill HQ spends these new tokens on financing new developments.
+90% goes to Anthill Community Treasury, and 10% goes to **Anthill HQ**. (The UK limited company in charge of developing the Anthill Community). The Anthill HQ spends these new tokens on financing new developments.
 
 ### **The 90% of ANTT that goes into the Community Treasury is utilised for:**
 
@@ -28,9 +28,9 @@ When the value of the ANTT is lower than the target price, the algorithm needs t
 
 • Increasing the Treasury Cash Reserve
 
-• Purchasing of Digital assets (Bitcoin, Ethereum, Matic), having BTC and others quality digital assets create an extra level of stability for the ANTT. This makes the **Ant Token is an algorithmic token that is partially backed by Bitcoin and other Cryptos** which can be used to passively and actively stabilise the value of the ANTT in the market.
+• Purchasing of Digital assets (Bitcoin, Ethereum, Matic), having BTC and other quality digital assets create an extra level of stability for the ANTT. This makes the **Ant Token an algorithmic token that is partially backed by Bitcoin and other Cryptos** which can be used to passively and actively stabilise the value of the ANTT in the market.
 
-**Community members can utilise their tokens in Anthill Marketplace, in the coworking and co-studio spaces, in the metaverse, in our learn by doing system or exchange them for traditional fiat currencies ( $ £ € etc.).**
+**Community members can utilise their tokens in the Anthill Marketplace, in the coworking and co-studio spaces, in the metaverse, in our learn by doing system or exchange them for traditional fiat currencies ( $ £ € etc.).**
 
 ## Micro Fees
 

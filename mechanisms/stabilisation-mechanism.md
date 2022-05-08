@@ -1,16 +1,16 @@
 # Stabilisation Mechanism
 
-## The Anthill Protocol
+## Anthill Protocol
 
-* _**When ANT trades below the $1 target price**_
+* _**ANT trades below the $1 target price**_
 
-When ANTT price is below the target price of $1, token holders can purchase ANT Bonds (ANTB) by burning ANTT to reduce the circulating supply with a 1:1 ratio, and Bonds will be burnt when users redeem ANTT with a premium bonus.
+When the ANTT price is below its target price of $1, token holders can purchase ANT Bonds (ANTB) by burning ANTT to reduce the circulating supply with a 1:1 ratio, and Bonds will be burnt when users redeem ANTT with a premium bonus.
 
-In case of redemption, an amount of ANTT will be minted according to the TWAP at the beginning of the epoch (for example, if the ANTT price is $1.1 then one Bond burnt will get back 1.1 ANTT). Important to note is that Bonds have no expiry after purchase.
+In case of redemption, an amount of ANTT will be minted according to the TWAP at the beginning of the epoch (for example, if the ANTT price is $1.1 then one Bond burnt will get back 1.1 ANTT). It is important to note that Bonds have no expiry after purchase.
 
-* _**When ANTT trades above the $1 target price**_
+* _**ANTT trades above the $1 target price**_
 
-When ANTT price is above the 1$ peg, the token supply will have to expand to push it back down to 1$ and the contract will allow the redemption of the ANTB.
+When the ANTT price is above its 1$ peg, the token supply will have to expand to push it back down to 1$ and the contract will allow the redemption of the ANTB.
 
 When the price of ANTT continues trading above the $1 target price after bond redemption, the contract mints an appropriate amount of new ANTT. This will be distributed to the Boardroom Stakers.
 
@@ -18,7 +18,7 @@ This three token system creates incentives through seigniorage, always pushing A
 
 * _**Epoch Expansion**_
 
-Capped at +50% of current expansion cap if there are bonds to be redeemed and follows the expansion cap if treasury is sufficiently full to meet bond redemption (See table below for detailed information)
+Capped at +50% of the current expansion cap if there are bonds to be redeemed and follows the expansion cap if the treasury is sufficiently full to meet bond redemption (See table below for detailed information)
 
 Total ANT Supply Expansion / Bonds Issued per Epoch
 
@@ -38,9 +38,9 @@ Total ANT Supply Expansion / Bonds Issued per Epoch
 
 ## Unique Algorithm <a href="#unique-algorithm" id="unique-algorithm"></a>
 
-* (Boardroom) Epoch duration: 8 hours during expansion and 6 hours during contraction — the protocol reacts faster to stabilize ANTT price to peg as compared to other protocols with longer epoch durations
-* Epoch Expansion: Capped at 6% if there are bonds to be redeemed, 4% if treasury is sufficiently full to meet bond redemption
+* (Boardroom) Epoch duration: 8 hours during expansion and 6 hours during contraction — the protocol reacts faster to stabilise ANTT price to peg as compared to other protocols with longer epoch durations
+* Epoch Expansion: Capped at 6% if there are bonds to be redeemed, 4% if the treasury is sufficiently full to meet bond redemption
 * ANTB tokens do not expire and this greatly reduces the risk for bond buyers
 * Price feed oracle for TWAP is based on the average of 2 liquidity pool pairs (i.e. ANTT/UST and ANTT/MATIC) which makes it more difficult to manipulate
-* No discount for bond purchase, but premium bonus for bond redemptions if users were to wait for ANTT to increase even more than the 1 $BUSD peg
-* Riding on [anthill.community](https://anthill.community) various resources and ecosystem pillars, ANTT will find its ever growing utilities right after launch, which is its great advantage over other algorithmic stablecoins.
+* No discount for bond purchase, but a premium bonus for bond redemptions if users were to wait for ANTT to increase even more than the 1 $BUSD peg
+* Riding on [anthill.community](https://anthill.community) various resources and ecosystem pillars, ANTT will find its ever-growing utilities right after launch, which is its great advantage over other algorithmic stablecoins.
