@@ -18,7 +18,7 @@ Having a colony is the best way to keep your Organisation's Identity within the 
 • Projects
 
 Each Ant account can own a set amount of colonies according to their [Ranking](ranking-system.md) but can be part of an unlimited number of colonies. \
-For example, an Anthill member (Ant) could have the colony of their company, of their art collective, of their group of interest (for example, NYC Filmmakers), of their music band. And can be part of any Colony present in the Anthill Community. Colonies can be open or closed to join.&#x20;
+For example, an Anthill member (Ant) could have the colony of their company, of their art collective, of their group of interest (for example, NYC Filmmakers), of their music band. And can be part of any Colony present in the Anthill Community. Colonies can be open or private.&#x20;
 
 ### **Colony Names have financial value**&#x20;
 
