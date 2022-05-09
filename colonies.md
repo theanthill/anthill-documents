@@ -14,6 +14,7 @@ Having a colony is the best way to keep your Organisation's Identity within the 
 • Companies \
 • Collectives \
 • Communities \
+• DAOs & DACs\
 • Charities \
 • Projects
 
