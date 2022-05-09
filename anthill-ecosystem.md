@@ -10,7 +10,7 @@ You now have your very own online storefront where you can sell your services, p
 
 ## UNIVERSAL CONTRIBUTION INCOME (UCI)
 
-Anthill gives you a Universal Contribution Income in proportion to your participation on the platform (engage, invest, stake, create content, govern). The more you contribute, the more you Earn. (_see_ [_Ranking System_](ranking-system.md)).&#x20;
+Anthill gives you a Universal Contribution Income. This financial support is rewarded in proportion to your participation in the community. Participation in the form of engagement, investment, token staking, creating content, contribution to the community governance and more). The more you Contribute, the more you Earn. (_see_ [_Ranking System_](ranking-system.md)).&#x20;
 
 ## AGENCY
 
