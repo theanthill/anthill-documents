@@ -9,12 +9,13 @@ Having a colony is the best way to keep your Organisation's Identity within the 
 
 ### **Colony are:**&#x20;
 
+**Centralised or Decentralised:**
+
 • Groups \
 • Organisations \
 • Companies \
 • Collectives \
 • Communities \
-• DAOs & DACs\
 • Charities \
 • Projects
 
@@ -29,13 +30,14 @@ This is to remove speculative trading over the names and to give space to genuin
 
 ### **Benefits:**&#x20;
 
-• Keep the Organisation/Company identity within the Anthill Community \
-• Match Making Tool for Colony (get connected with people that could be interested in becoming members of your company) \
-• \*Early Adopters get their Colony Name for Free\
+• Keep the Organisation, Company, etc identity within the Anthill Community \
+• Match Making Tool for Colony (get connected with people that could be interested in becoming members of your Colony) \
+• Early Adopters<mark style="color:yellow;">\*</mark> get their Colony Name for Free\
 • Earn a passive income by contributing to the Anthill Community \
 • Access to Anthill Social Tools as Colony \
 • Access to Anthill Marketplace as Colony \
 • Access to Anthill Financial Tools (Defi) as Colony \
+• Give your members voting power to make decisions within your Colony (Optional)\
 • Participating in the governance as a Colony means representing your colony member's votes. (Members can decide if delegate their vote to the colony)&#x20;
 
 ### **Optional Benefits:**&#x20;
@@ -43,6 +45,6 @@ This is to remove speculative trading over the names and to give space to genuin
 • Internal advanced governance system for the Colony\
 • Own token, pegged or not pegged to the Ant Token
 
-### **\*Early Adopters:**&#x20;
+### <mark style="color:yellow;">**\*Early Adopters:**</mark>** **&#x20;
 
 Committing your Organisation to become part of the Anthill before the launch day, allows you to get the Colony Name of your organisation for free. Interested? Get in touch via our [Discord Server](https://discord.gg/pv2RZk9UGc).
