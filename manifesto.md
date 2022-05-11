@@ -7,7 +7,7 @@ Our vision is to be the world’s most respectfully inclusive and radically dive
 
 We are allies, we are advocates, we are creators, and we welcome all who share our ethos.
 
-In an increasingly commodified world, creatives are forced to make challenging decisions that flatten and compromise vision, meaning, and direction. Could a world exist where creatives can free themselves to create as we please? A world free from the dominant centralized institutions, where nothing is stopping us from dreaming bigger and achieving ultimate creative vision? A world where anyone is free to create regardless of their ethnicity, religion, sexuality, gender, education, or disability?
+In an increasingly commodified world, creatives are forced to make challenging decisions that flatten and compromise vision, meaning, and direction. Could a world exist where creatives can free themselves to create as we please? A world free from the dominant centralized institutions, where nothing is stopping us from dreaming bigger and achieving ultimate creative vision? A world where anyone is free to create regardless of their race, ethnicity, religion, sexuality, gender, education, or disability?
 
 The experience of most creatives is that of the struggling artist. Historically pilfered by executives and industry leaders, creative talent has been underpaid and underappreciated by the powerful few. Recently, streaming services have only exacerbated this uneven power dynamic. However, with burgeoning blockchain and crypto technology we’ve finally arrived at a moment in time that allows the creation of the world we’ve been waiting for.
 
