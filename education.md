@@ -4,7 +4,7 @@ description: Learn through work
 
 # Education
 
-Anthill has partnered with [CLOCK](https://clockyourskills.com) to support your professional development. \
+Anthill has partnered with [CLOCK](https://clockyourskills.com/) to support your professional development. \
 CLOCK is a ground-breaking programme designed for people who learn and develop their skills through creative and professional work. \
 Internationally recognised qualification up to PhD level at 1/3 of the price.
 

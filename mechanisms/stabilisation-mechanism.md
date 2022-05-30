@@ -43,4 +43,4 @@ Total ANT Supply Expansion / Bonds Issued per Epoch
 * ANTB tokens do not expire and this greatly reduces the risk for bond buyers
 * Price feed oracle for TWAP is based on the average of 2 liquidity pool pairs (i.e. ANTT/UST and ANTT/MATIC) which makes it more difficult to manipulate
 * No discount for bond purchase, but a premium bonus for bond redemptions if users were to wait for ANTT to increase even more than the 1 $BUSD peg
-* Riding on [anthill.community](https://anthill.community) various resources and ecosystem pillars, ANTT will find its ever-growing utilities right after launch, which is its great advantage over other algorithmic stablecoins.
+* Riding on [anthill.community](https://anthill.community/) various resources and ecosystem pillars, ANTT will find its ever-growing utilities right after launch, which is its great advantage over other algorithmic stablecoins.

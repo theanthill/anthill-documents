@@ -14,8 +14,8 @@ Start Ranking up by contributing now.
 
 ## Call of Action:&#x20;
 
-* Share [Anthill website](https://anthill.community) with your fellow creatives.&#x20;
-* Invite them to join the queue and be the first to join Anthill the day we launch. ([sign up](https://anthill.community))&#x20;
+* Share [Anthill website](https://anthill.community/) with your fellow creatives.&#x20;
+* Invite them to join the queue and be the first to join Anthill the day we launch. ([sign up](https://anthill.community/))&#x20;
 * Join [Anthill Discord Server](https://discord.gg/pv2RZk9UGc) introduce yourself to the community and contribute to the discussions.
 * Become an Anthill [Ambassador](the-community.md), be a point of reference in your circle.&#x20;
 * If you or if you know anyone that could help Anthill with the app development, investment, social media management and content creation, writing articles for the blog, helping with the gamification of the platform and so forth, please get in touch and make the introduction.&#x20;

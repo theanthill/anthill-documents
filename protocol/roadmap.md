@@ -4,7 +4,7 @@ Starting at the beginning of 2021 Anthill Team has been busy setting up the foun
 
 **Completed**
 
-* Anthill Community Website \*\*\*\*v1.0 [https://anthill.community/](https://anthill.community)
+* Anthill Community Website \*\*\*\*v1.0 [https://anthill.community/](https://anthill.community/)
 * First ANT Token transaction on the Blockchain
 * MVP with 150 Ants joined the community!
 * Social Media presence

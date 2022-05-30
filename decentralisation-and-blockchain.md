@@ -2,7 +2,7 @@
 description: Higher Security, More Transparency, Censor Resistance
 ---
 
-# Decentralisation - Blockchain
+# Decentralisation & Blockchain
 
 To make Anthill possible we need trust in ourselves and trust in the system that enforces and regulate the community and the token.&#x20;
 
@@ -18,7 +18,7 @@ This technology is called Blockchain.&#x20;
 
 ## **WHY POLYGON**
 
-****[**Polygon**](https://polygon.technology) **** is the [**Eco-Friendly**](https://blog.polygon.technology/polygon-the-eco-friendly-blockchain-scaling-ethereum-bbdd52201ad/) **Blockchain Scaling** [**Ethereum**](https://ethereum.org/en/) platform that enables developers to build scalable decentralised user-friendly dApps with low transaction fees without ever sacrificing on security.
+****[**Polygon**](https://polygon.technology/) **** is the [**Eco-Friendly**](https://blog.polygon.technology/polygon-the-eco-friendly-blockchain-scaling-ethereum-bbdd52201ad/) **Blockchain Scaling** [**Ethereum**](https://ethereum.org/en/) platform that enables developers to build scalable decentralised user-friendly dApps with low transaction fees without ever sacrificing on security.
 
 ![](<.gitbook/assets/polygon eco friendly.png>)
 

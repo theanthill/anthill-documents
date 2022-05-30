@@ -14,7 +14,7 @@ Ants and Colonies may purchase, from Anthill Community, **virtual plots of land 
 
 **Part of the Metaverse's land is reserved for communal use via our Working Proposal System. This part of the land is owned by Anthill Community and will never be sold.**&#x20;
 
-**There is a limited amount of land plots available in the Metaverse for sale**, they can be purchased from Anthill on [Opensea](https://opensea.io). Every month for a three-year period, several plots of land go on sale until all the plots are sold.&#x20;
+**There is a limited amount of land plots available in the Metaverse for sale**, they can be purchased from Anthill on [Opensea](https://opensea.io/). Every month for a three-year period, several plots of land go on sale until all the plots are sold.&#x20;
 
 ## MINT NEW LAND WITH YOUR NEW QUALIFICATION
 
@@ -29,8 +29,6 @@ The percentage of the plot is in proportion to the qualification level and the m
 The Ant Tokens (ANTT) earned by the Anthill Treasury get burned (destroyed) or used to buy digital assets (Bitcoin etc.) according to the needs of the [**Token Economy Algorithm**](token-economy.md).&#x20;
 
 _This is the best way to contribute financially as the destruction of ANTT creates scarcity in the market supply, this pushes the value of the ANTT up while holding digital assets in the treasury stabilise the value of the ANTT._
-
-
 
 ## **LAND DISTRIBUTION\***
 
@@ -49,4 +47,4 @@ _<mark style="color:green;">\*those numbers are a reference of intention. Final 
 ## VIRTUAL ASSETS & SERVICES
 
 Ant Members can create and profit from the sale/rent of digital assets for the Metaverse as well as offer services related to the development of activities in the Metaverse. \
-Hire a few bands and organise the biggest virtual festival ever. Or place an augmented reality stage at [**Glastonbury Festival**](https://www.glastonburyfestivals.co.uk) **** and have bands in the Metaverse perform on it**.**
+Hire a few bands and organise the biggest virtual festival ever. Or place an augmented reality stage at [**Glastonbury Festival**](https://www.glastonburyfestivals.co.uk/) **** and have bands in the Metaverse perform on it**.**

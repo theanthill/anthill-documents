@@ -38,7 +38,7 @@ You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read m
 ## **EARLY ADOPTERS**
 
 You can join Anthill before the launch day. \
-Register yourself on [https://anthill.community/](https://anthill.community) to gain first access.
+Register yourself on [https://anthill.community/](https://anthill.community/) to gain first access.
 
 ### **Benefits:**
 

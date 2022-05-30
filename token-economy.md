@@ -2,9 +2,9 @@
 
 The Success of the Anthill Community is connected to the success of the Ant Token and vice versa. This aligns with the interests of everyone that is part of the Anthill Ecosystem.
 
-![click to enlarge](<.gitbook/assets/Anthill Token Economy (2).png>)
-
 **The Ant Token (ANTT) is an algorithmic token that gains 10% of its value a year.**
+
+![click to enlarge](<.gitbook/assets/Anthill Token Econmy 2022.png>)
 
 At every moment, the algorithm calculates the target price of the ANTT and decides if it needs to contract or expand the liquidity of the ANTT in the market (Liquidity Pool).
 
