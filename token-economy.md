@@ -34,4 +34,4 @@ When the value of the ANTT is lower than the target price, the algorithm needs t
 
 ## Micro Fees
 
-There are micro fees every time a smart contract is used. Together with the other earnings made by Anthill Treasury, those fees are burned (destroyed to create scarcity) or used to purchase digital assets (BTC).
+There are micro fees every time a smart contract is used. Together with the other earnings made by Anthill Treasury, those fees, when possible, are burned (destroyed to create scarcity) or used to purchase digital assets (BTC).
