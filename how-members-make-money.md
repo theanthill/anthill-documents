@@ -16,4 +16,5 @@ There are several ways to make money on Anthill. You can earn rewards from every
 • Provide Liquidity, earn fees\
 • Invest in Projects, earn from the projects\
 • Contribute to the Community, receive [Universal Contribution Income](anthill-ecosystem.md)\
-• Be Active in the Community, monetize your data
+• Be Active in the Community, monetize your data\
+• Opt-in to Receive Ads, earn from advertisement
