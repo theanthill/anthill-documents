@@ -5,6 +5,7 @@
 * [Anthill Ecosystem](anthill-ecosystem.md)
 * [The Community](the-community.md)
 * [The New Economy](the-new-economy.md)
+* [How Members Make Money](how-members-make-money.md)
 * [Decentralisation & Blockchain](decentralisation-and-blockchain.md)
 * [Colonies](colonies.md)
 * [Metaverse](metaverse.md)
