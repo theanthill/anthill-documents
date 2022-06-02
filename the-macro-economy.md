@@ -1,5 +1,5 @@
 ---
-description: and where the Ant Token sits in the Crypto Market
+description: and where the Ant Token sits in the Crypto Market - long term vision
 ---
 
 # The Macro-Economy
