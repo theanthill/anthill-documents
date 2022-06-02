@@ -14,6 +14,7 @@
 * [Governance](governance.md)
 * [How to Contribute Today](how-to-contribute-today.md)
 * [Token Economy](token-economy.md)
+* [The Macro-Economy](the-macro-economy.md)
 * [Anthill Protocol](the-anthill-protocol.md)
 
 ## Protocol
