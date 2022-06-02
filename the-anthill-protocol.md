@@ -17,6 +17,6 @@ Anthill has a multi-token protocol that consists of three main tokens and a time
 
 ![](<.gitbook/assets/Anthill Protocole.png>)
 
-This is a simplified version:
+TL;DR version:
 
 ![](<.gitbook/assets/Anthill Token Economy Meme.png>)
