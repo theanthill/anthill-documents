@@ -16,3 +16,7 @@ Anthill has a multi-token protocol that consists of three main tokens and a time
 * **ANT Contract (ANTC)**: this is a long term staking token that gains an additional 5% per year on top of the 10% that the ANTT gains.
 
 ![](<.gitbook/assets/Anthill Protocole.png>)
+
+This is a simplified version:
+
+![](<.gitbook/assets/Anthill Token Economy Meme.png>)
