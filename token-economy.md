@@ -14,7 +14,7 @@ When the value of the ANTT is lower than the target price, the algorithm needs t
 
 ## New-minted tokens distribution&#x20;
 
-90% goes to Anthill Community Treasury, and 10% goes to **Anthill HQ**. (The UK limited company in charge of developing the Anthill Community). The Anthill HQ spends these new tokens on financing new developments.
+90% goes to **Anthill Community Treasury**, and 10% goes to **Anthill HQ**. (The UK limited company in charge of developing the Anthill Community). The Anthill HQ spends these new tokens on financing new developments.
 
 ### **The 90% of ANTT that goes into the Community Treasury is utilised for:**
 
