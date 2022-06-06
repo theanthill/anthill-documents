@@ -41,6 +41,6 @@ Total ANT Supply Expansion / Bonds Issued per Epoch
 * (Boardroom) Epoch duration: 8 hours during expansion and 6 hours during contraction — the protocol reacts faster to stabilise ANTT price to peg as compared to other protocols with longer epoch durations
 * Epoch Expansion: Capped at 6% if there are bonds to be redeemed, 4% if the treasury is sufficiently full to meet bond redemption
 * ANTB tokens do not expire and this greatly reduces the risk for bond buyers
-* Price feed oracle for TWAP is based on the average of 2 liquidity pool pairs (i.e. ANTT/UST and ANTT/MATIC) which makes it more difficult to manipulate
-* No discount for bond purchase, but a premium bonus for bond redemptions if users were to wait for ANTT to increase even more than the 1 $BUSD peg
+* Price feed oracle for TWAP is based on the average of 2 liquidity pool pairs (i.e. ANTT/USD and ANTT/MATIC) which makes it more difficult to manipulate
+* No discount for bond purchase, but a premium bonus for bond redemptions if users were to wait for ANTT to increase even more than the target price.
 * Riding on [anthill.community](https://anthill.community/) various resources and ecosystem pillars, ANTT will find its ever-growing utilities right after launch, which is its great advantage over other algorithmic stablecoins.
