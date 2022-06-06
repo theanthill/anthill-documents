@@ -25,10 +25,10 @@ Starting at the beginning of 2021 Anthill Team has been busy setting up the foun
 **Future Development**
 
 * First Anthill Colony: physical space in London for Anthill members to gather, co-work, and share. With built-in Studios for photography, music productions, etc...
-* Anthill Community Web Website
+* Anthill Community Web App
   * Gamification of participation: Ants will earn ANTT Tokens and Ranking based on their engagement
   * Governance: The Ants Rank will give each member decision power on the Community's future, including the Token Economy.
-* The Anthill Marketplace: Storefront for the Ants and the Community to offer their products and services
+* The Anthill Marketplace: Storefront for the Ants and the Community to offer their products, services and NFTs.
 * The Anthill Protocol :
   * Ants can buy/sell and stake their Ant tokens (ANTT)
   * Passive income consultation and collection
