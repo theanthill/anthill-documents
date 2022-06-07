@@ -2,7 +2,7 @@
 
 Starting at the beginning of 2021 Anthill Team has been busy setting up the foundations of the project. The Roadmap for 2022 focuses on growing the Anthill Community and Anthill Protocol ecosystem, thus giving the Ant Token Economy strong use cases and a utility for the ANTT Token that will sustain its value.
 
-**MVP Traction (our experiment run over our test platform)**
+**MVP Traction (our experiment run over our test platform - Experimental Phase completed)**
 
 * 150 Members in 5 months&#x20;
 * From 16 different countries&#x20;
