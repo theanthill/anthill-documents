@@ -20,17 +20,17 @@ You can join Anthils as Individuals (Ants) or Organisations (Colonies). [_Read m
 
 #### If you belong to one of these categories, Anthill is for you:
 
-• **You believe you belong here** (no question asked)\
+• **You believe you belong to Anthill** (no question asked)\
 • **Artist** (any form of art, no limits)\
 • **Creative** **Mind**\
 • **You Work in the Creative Industry**\
-• **Investor** (invest in creatives, in art projects, in crypto, in Ant Token, in business that work in the creative industry)\
+• **Investor** (invest in creatives, art projects, crypto, Ant Token, businesses that work in the creative industry)\
 • **A fan, a lover of arts and creativity, an art collector etc.**\
 ****• **you are a group, collective, company, organisation, association, community, charity, school, studio, theatre, etc**\
 **• Marketing and Communication** \
 ****• **Blockchain Developer**\
 **• Software Engineer, AI, Robotics etc**\
-**• You offer services to creative and in the creative industry (lawyer, accountant, etc)**\
+**• You offer services to creatives and in the creative industry (lawyer, accountant, etc)**\
 **• Community Manager**\
 **• Intellectual** \
 **• Content Creator**&#x20;
